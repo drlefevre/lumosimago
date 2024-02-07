@@ -5,6 +5,15 @@ theme:
     - navigation.tabs
     - toc.integrate
   language: fr
+  palette:
+    primary: blue
+    accent: light blue
+  favicon: assets/favicon.png
+  logo: assets/logo.svg
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
 
 copyright: |
   &copy; 2024 <a href="https://github.com/drlefevre" target="_blank" rel="noopener">Alexandre Lefèvre</a>
