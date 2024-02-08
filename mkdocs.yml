@@ -3,17 +3,18 @@ theme:
   name: material
   features:
     - navigation.tabs
-    - toc.integrate
   language: fr
   palette:
-    primary: blue
-    accent: light blue
-  favicon: assets/favicon.png
-  logo: assets/logo.svg
+    primary: indigo
+    accent: deep purple
+  favicon: assets/logo brain.svg
+  logo: assets/logo brain.svg
 
 markdown_extensions:
   - attr_list
   - md_in_html
+  - toc:
+      toc_depth: 3
 
 copyright: |
   &copy; 2024 <a href="https://github.com/drlefevre" target="_blank" rel="noopener">Alexandre Lefèvre</a>
