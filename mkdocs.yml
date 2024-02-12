@@ -16,6 +16,8 @@ nav:
     - Démences: neuro/démences.md
     - Sciatique: neuro/sciatique.md
     - Alcool: neuro/alcool.md
+    - Adénome hypophysaire: neuro/adénome.md
+    - Schwannome vestibulaire: neuro/schwannome.md
   - Thorax: thorax/index.md
   - HGE: HGE/index.md
   - Pédia: pédia/index.md
@@ -29,9 +31,9 @@ theme:
   language: fr
   palette:
     primary: indigo
-    accent: deep blue
-  favicon: assets/logo brain.svg
-  logo: assets/logo brain.svg
+    accent: light blue
+  favicon: assets/logo maj.svg
+  logo: assets/logo maj.svg
 
 plugins:
   - search

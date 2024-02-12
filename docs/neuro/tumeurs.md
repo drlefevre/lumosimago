@@ -7,33 +7,54 @@
 ### Intra/extra-axiale
 1^ère^ question à se poser face à une tumeur intracrânienne : s'agit-il d'une lésion de l'encéphale ou des annexes (méninges et nerfs crâniens) ?
 
-#### [Tumeur intra-axiale]()
 
+!!! imago "[Tumeur intra-axiale (gliome de bas grade)](https://radiopaedia.org/cases/48852/studies/53888?lang=gb){:target="_blank"}"
+    * Scanner sans puis après injection reconstruit dans les 3 plans
+    * Plage hypodense **dans le parenchyme** frontal postérieur paramédian gauche
+    * Discret effacement des sillons adjacents traduisant un effet de masse
+    * Pas de prise de contraste
 
-#### [Tumeur extra-axiale](https://radiopaedia.org/cases/174815/studies/140846?lang=us){:target="_blank"}
-
+!!! imago "[Tumeur extra-axiale (méningiome)](https://radiopaedia.org/cases/174815/studies/140846?lang=us){:target="_blank"}"
+    * IRM en séquences T1, FLAIR, T2, diffusion, T2*, et T1 après injection
+    * Masse paramédiane à **base d'implantation méningée** (voir coronal T2)
+    * Effet de masse sur le parenchyme cérébral fronto-pariétal gauche
+    * Lésion bien circonscrite avec rehaussement homogène
 
 !!! tip ""
     :fire: La grande majorité des tumeurs extra-axiales sont des **méningiomes**
 
 
 ### Supra/infra-tentorielle
-C'est-à-dire au-dessus ou en-dessous de la tente du cervelet.   
+Autre question pour orienter le diagnostic : la lésion est-elle au-dessus ou en-dessous de la tente du cervelet ?
 
 !!! tip ""
     :fire: Chez l'adulte, les tumeurs sont **supra-tentorielles** dans 80% des cas
 
-#### [Tumeur supra-tentorielle]()
+!!! imago "[Tumeur supra-tentorielle (lymphome)](https://radiopaedia.org/cases/152791/studies/126586?lang=gb){:target="_blank"}"
+    * IRM en séquences FLAIR, T2, SWI, T1, diffusion, T1 après inj. et perfusion
+    * Lésions sous-épendymaires disséminées dans le système ventriculaire
+    * Aspect « floconneux »
+    * Restriction de la diffusion et prise de contraste homogène
 
-#### [Tumeur infra-tentorielle]()
+!!! imago "[Tumeur infra-tentorielle (métastase)](https://radiopaedia.org/cases/23187/studies/23243?lang=gb){:target="_blank"}"
+    * Scanner sans injection dans le plan axial
+    * Masse **cérébelleuse** supérieure droite bien circonscrite
+    * Périphérie hyperdense et centre hypodense (nécrotique)
+    * Plage hypodense périlésionnelle (œdème vasogénique)
 
-
+!!! tip ""
+    :fire: Devant une tumeur de fosse postérieure chez l'adulte, penser **métastase** +++
 
 ## Types histologiques :microscope:
 
 ### Tumeurs gliales
 
-#### [Glioblastome]()
+!!! imago "[Glioblastome](https://radiopaedia.org/cases/37092/studies/38787?lang=us){:target="_blank"}"
+    * Scanner sans puis après injection reconstruit dans les 3 plans
+    * Masse **dans le parenchyme** périventriculaire pariétal droit
+    * Prise de contraste périphérique "en cocarde"
+    * Plage hypodense dans la substance blanche péri-lésionnel (œdème)
+
 
 !!! tip ""
     :fire: Le **glioblastome** est la tumeur cérébrale primitive la plus fréquente
@@ -41,17 +62,19 @@ C'est-à-dire au-dessus ou en-dessous de la tente du cervelet.
 
 ### Autres tumeurs primitives
 
-#### [Adénome hypophysaire]()
-
-#### [Schwannome vestibulaire]()
-
+[cf. Adénome hypophysaire](adénome.md)   
+[cf. Schwannome vestibulaire](schwannome.md)
 
 ### Métastases
 
-#### [Métastases]()
+!!! tip ""
+    :fire: Principales causes des métastases : **poumon, sein et mélanome**
 
-#### [Métastases hémorragiques]()
-
+!!! imago "[Métastases d'un cancer pulmonaire](https://radiopaedia.org/cases/5159/studies/6940?lang=gb){:target="_blank"}"
+    * Scanner dans le plan axial après injection
+    * Innombrables nodules centrimétriques avec rehaussement en cocarde
+    * Supra et infra-tentoriels, de localisation **cortico-sous-corticale**
+    * Plages d'œdème péri-lésionnel surtout frontale et pariétale gauches
 
 
 ## Particularités pédiatriques :child_tone1:
@@ -59,14 +82,17 @@ C'est-à-dire au-dessus ou en-dessous de la tente du cervelet.
 !!! tip ""
     :fire: Chez l'enfant, les tumeurs sont souvent dans la **fosse postérieure** +++
 
-#### [Craniopharyngiome]()
+!!! imago "[Craniopharyngiome](){:target="_blank"}"
+    * 
 
-#### [Médulloblastome]()
+!!! imago "[Médulloblastome](){:target="_blank"}"
+    * 
 
-#### [Astrocytome pilocytique]()
+!!! imago "[Astrocytome pilocytique](){:target="_blank"}"
+    * 
 
-#### [Ependymome]()
-
+!!! imago "[Ependymome](){:target="_blank"}"
+    * 
 
 
 ## Rehaussement en cocarde :simple-target:
@@ -74,29 +100,30 @@ C'est-à-dire au-dessus ou en-dessous de la tente du cervelet.
 De nombreuses lésions cérébrales peuvent présenter un rehaussement périphérique "en cocarde".
 
 !!! tip ""
-    :fire: **MAGIC DR** : Méta Abcès Glioblastome Infarctus Contusion Démyélinisation Radionécrose
+    :fire: **MAGIC Dr** : Méta Abcès Glioblastome Infarctus Contusion Démyélinisation Radionécrose
 
-#### [Toxoplasmose]()
+!!! imago "[Toxoplasmose](){:target="_blank"}"
+    * 
 
-#### [Abcès à pyogènes]()
+!!! imago "[Abcès à pyogènes](){:target="_blank"}"
+    * 
 
-#### [AVC]()
+[cf. AVC](AVC.md)   
 
-#### [Contusion œdémato-hémorragique]()
+[cf. TC](TC.md)
 
-#### [SEP]()
+[cf. SEP](SEP.md)
 
 
-## Quiz :question:
+## Quizx
 
-**Quelle est la localisation de la lésion ?    
-Quelle est votre hypothèse diagnostique principale ?**
+Que pouvez-vous dire des dossiers suivants ?
 
-??? question "[Homme de 30 ans, céphalées chroniques]()"
-    Réponse
+??? question "[Homme de 40 ans, céphalées chroniques, atcd de maladie de VHL ](https://radiopaedia.org/cases/163238/studies/133079?lang=gb){:target="_blank"}"
+    *   
 
-??? question "[Homme de 30 ans, céphalées occipitales]()"
-    Réponse
+??? question "[Homme de 80 ans, hémiparésie gauche et céphalées](https://radiopaedia.org/cases/22766/studies/22789?lang=gb){:target="_blank"}"
+    *
 
-??? question "[Homme de 30 ans, épilepsie]()"
-    Réponse
+??? question "[Femme de 50 ans, céphalées chroniques d'aggravation récente](https://radiopaedia.org/cases/43429/studies/46792?lang=gb){:target="_blank"}"
+    *
