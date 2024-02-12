@@ -1,3 +1,28 @@
 .md-content .md-typeset h1 {
+    font-weight: 500;
     text-align: center;
+}
+
+.md-content .md-typeset h2 {
+    font-weight: 500;
+}
+
+.md-content .md-typeset h3 {
+    font-weight: 500;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+    font-size: 0.8rem;
+}
+
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+  border-width: 2px;
+}
+
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+    text-align: center;
+    border-color: rgb(255, 204, 76);
 }

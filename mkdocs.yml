@@ -1,13 +1,14 @@
 site_name: LumosImago
 
 nav:
-  - Accueil: index.md
+  - index.md
+  - Bases: bases/index.md
   - Anat:
     - Tête et cou: anat/tête-cou.md
     - Thorax: anat/thorax.md
     - Abdomen et pelvis: anat/abdo-pelv.md
     - Membres: anat/membres.md
-  - Neuro:
+  - Neuro/ORL:
     - Tumeurs: neuro/tumeurs.md
     - AVC: neuro/AVC.md
     - TC: neuro/TC.md
@@ -15,7 +16,11 @@ nav:
     - Démences: neuro/démences.md
     - Sciatique: neuro/sciatique.md
     - Alcool: neuro/alcool.md
-  
+  - Thorax: thorax/index.md
+  - HGE: HGE/index.md
+  - Pédia: pédia/index.md
+  - Uro/gynéco: uro-gynéco/index.md
+  - Ostéo: ostéo/index.md
 
 theme:
   name: material
@@ -24,7 +29,7 @@ theme:
   language: fr
   palette:
     primary: indigo
-    accent: deep purple
+    accent: deep blue
   favicon: assets/logo brain.svg
   logo: assets/logo brain.svg
 
@@ -34,14 +39,18 @@ plugins:
 markdown_extensions:
   - attr_list
   - md_in_html
+  - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.caret
   - toc:
-      toc_depth: 2
+      toc_depth: 3
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 copyright: |
-  &copy; 2024 Alexandre Lefèvre - lumosimago@gmail.com
+  &copy; 2024 Alexandre Lefèvre
 
 extra:
   generator: false
