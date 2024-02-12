@@ -57,8 +57,7 @@ Autre question pour orienter le diagnostic : la lésion est-elle au-dessus ou en
 
 ### Autres tumeurs primitives
 
-[cf. Adénome hypophysaire](adénome.md)   
-[cf. Schwannome vestibulaire](schwannome.md)
+cf. [Adénome hypophysaire](adénome.md) et [Schwannome vestibulaire](schwannome.md)
 
 ### Métastases
 
@@ -98,6 +97,7 @@ De nombreuses lésions cérébrales peuvent présenter un rehaussement périphé
     :fire: **MAGIC Dr** : Méta Abcès Glioblastome Infarctus Contusion Démyélinisation Radionécrose
 
 !!! imago "[Toxoplasmose](https://radiopaedia.org/cases/53993/studies/60132?lang=gb){:target="_blank"}"
+    * IRM en séquences T2, FLAIR, T1, diffusion et T1 après injection
     * Innombrables nodules péricentimétriques disséminés dans le parenchyme cérébral
     * Plages en hypersignal FLAIR péri-lésionnelles en lien avec de l'œdème
     * Discret rehaussement annulaire de certaines lésions (lenticulaire gauche et cervelet)
@@ -105,11 +105,7 @@ De nombreuses lésions cérébrales peuvent présenter un rehaussement périphé
 !!! imago "[Abcès à pyogènes](){:target="_blank"}"
     * 
 
-[cf. AVC](AVC.md)   
-
-[cf. TC](TC.md)
-
-[cf. SEP](SEP.md)
+cf. [AVC](AVC.md), [TC](TC.md) et [SEP](SEP.md)
 
 
 ## Quiz
