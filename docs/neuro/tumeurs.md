@@ -7,7 +7,6 @@
 ### Intra/extra-axiale
 1^ère^ question à se poser face à une tumeur intracrânienne : s'agit-il d'une lésion de l'encéphale ou des annexes (méninges et nerfs crâniens) ?
 
-
 !!! imago "[Tumeur intra-axiale (gliome de bas grade)](https://radiopaedia.org/cases/48852/studies/53888?lang=gb){:target="_blank"}"
     * Scanner sans puis après injection reconstruit dans les 3 plans
     * Plage hypodense **dans le parenchyme** frontal postérieur paramédian gauche
@@ -23,7 +22,6 @@
 !!! tip ""
     :fire: La grande majorité des tumeurs extra-axiales sont des **méningiomes**
 
-
 ### Supra/infra-tentorielle
 Autre question pour orienter le diagnostic : la lésion est-elle au-dessus ou en-dessous de la tente du cervelet ?
 
@@ -33,8 +31,7 @@ Autre question pour orienter le diagnostic : la lésion est-elle au-dessus ou en
 !!! imago "[Tumeur supra-tentorielle (lymphome)](https://radiopaedia.org/cases/152791/studies/126586?lang=gb){:target="_blank"}"
     * IRM en séquences FLAIR, T2, SWI, T1, diffusion, T1 après inj. et perfusion
     * Lésions sous-épendymaires disséminées dans le système ventriculaire
-    * Aspect « floconneux »
-    * Restriction de la diffusion et prise de contraste homogène
+    * Aspect « **cotonneux** », restriction de la diffusion et rehaussement homogène
 
 !!! imago "[Tumeur infra-tentorielle (métastase)](https://radiopaedia.org/cases/23187/studies/23243?lang=gb){:target="_blank"}"
     * Scanner sans injection dans le plan axial
@@ -45,6 +42,7 @@ Autre question pour orienter le diagnostic : la lésion est-elle au-dessus ou en
 !!! tip ""
     :fire: Devant une tumeur de fosse postérieure chez l'adulte, penser **métastase** +++
 
+
 ## Types histologiques :microscope:
 
 ### Tumeurs gliales
@@ -52,13 +50,10 @@ Autre question pour orienter le diagnostic : la lésion est-elle au-dessus ou en
 !!! imago "[Glioblastome](https://radiopaedia.org/cases/37092/studies/38787?lang=us){:target="_blank"}"
     * Scanner sans puis après injection reconstruit dans les 3 plans
     * Masse **dans le parenchyme** périventriculaire pariétal droit
-    * Prise de contraste périphérique "en cocarde"
-    * Plage hypodense dans la substance blanche péri-lésionnel (œdème)
-
+    * Rehaussement périphérique "en cocarde" et œdème péri-lésionnel 
 
 !!! tip ""
     :fire: Le **glioblastome** est la tumeur cérébrale primitive la plus fréquente
-
 
 ### Autres tumeurs primitives
 
@@ -97,13 +92,15 @@ Autre question pour orienter le diagnostic : la lésion est-elle au-dessus ou en
 
 ## Rehaussement en cocarde :simple-target:
 
-De nombreuses lésions cérébrales peuvent présenter un rehaussement périphérique "en cocarde".
+De nombreuses lésions cérébrales peuvent présenter un rehaussement périphérique.
 
 !!! tip ""
     :fire: **MAGIC Dr** : Méta Abcès Glioblastome Infarctus Contusion Démyélinisation Radionécrose
 
-!!! imago "[Toxoplasmose](){:target="_blank"}"
-    * 
+!!! imago "[Toxoplasmose](https://radiopaedia.org/cases/53993/studies/60132?lang=gb){:target="_blank"}"
+    * Innombrables nodules péricentimétriques disséminés dans le parenchyme cérébral
+    * Plages en hypersignal FLAIR péri-lésionnelles en lien avec de l'œdème
+    * Discret rehaussement annulaire de certaines lésions (lenticulaire gauche et cervelet)
 
 !!! imago "[Abcès à pyogènes](){:target="_blank"}"
     * 
@@ -115,15 +112,17 @@ De nombreuses lésions cérébrales peuvent présenter un rehaussement périphé
 [cf. SEP](SEP.md)
 
 
-## Quizx
+## Quiz
 
 Que pouvez-vous dire des dossiers suivants ?
 
-??? question "[Homme de 40 ans, céphalées chroniques, atcd de maladie de VHL ](https://radiopaedia.org/cases/163238/studies/133079?lang=gb){:target="_blank"}"
-    *   
-
-??? question "[Homme de 80 ans, hémiparésie gauche et céphalées](https://radiopaedia.org/cases/22766/studies/22789?lang=gb){:target="_blank"}"
-    *
+??? question "[Homme de 57 ans, céphalées chroniques d'aggravation récente](https://radiopaedia.org/cases/37760/studies/39665?lang=gb){:target="_blank"}"
+    * métastases hémorragiques d'un mélanome
+    !!! tip ""
+        :fire: Principales causes des métastases hémorragiques : **mélanome et rein** 
 
 ??? question "[Femme de 50 ans, céphalées chroniques d'aggravation récente](https://radiopaedia.org/cases/43429/studies/46792?lang=gb){:target="_blank"}"
-    *
+    * extra-axiale (mais difficile), méningiome
+
+??? question "[Homme de 40 ans, céphalées chroniques, atcd de maladie de VHL](https://radiopaedia.org/cases/163238/studies/133079?lang=gb){:target="_blank"}"
+    * hémangioblastome cérébelleux (mixte nodulaire et kystique)
