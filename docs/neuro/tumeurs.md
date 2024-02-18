@@ -1,8 +1,8 @@
-# Tumeurs :brain:
+# Tumeurs intracrâniennes
 :material-arrow-right: [Fiche LiSA "Tumeurs intracrâniennes"](https://livret.uness.fr/lisa/Tumeurs_intracr%C3%A2niennes){:target="_blank"}   
 :material-arrow-right: [Collège des Enseignants de Neurologie](https://www.cen-neurologie.fr/fr/deuxieme-cycle/tumeurs-intracraniennes){:target="_blank"}  
 
-## Topographie :material-target:
+## Topographie :brain:
 
 ### Intra/extra-axiale
 1^ère^ question à se poser face à une tumeur intracrânienne : s'agit-il d'une lésion de l'encéphale ou des annexes (méninges et nerfs crâniens) ?
@@ -19,19 +19,19 @@
     * Effet de masse sur le parenchyme cérébral fronto-pariétal gauche
     * Lésion bien circonscrite avec rehaussement homogène
 
-!!! tip ""
+!!! lumos ""
     :fire: La grande majorité des tumeurs extra-axiales sont des **méningiomes**
 
 ### Supra/infra-tentorielle
 Autre question pour orienter le diagnostic : la lésion est-elle au-dessus ou en-dessous de la tente du cervelet ?
 
-!!! tip ""
-    :fire: Chez l'adulte, les tumeurs sont **supra-tentorielles** dans 80% des cas
-
 !!! imago "[Tumeur supra-tentorielle (lymphome)](https://radiopaedia.org/cases/152791/studies/126586?lang=gb){:target="_blank"}"
     * IRM en séquences FLAIR, T2, SWI, T1, diffusion, T1 après inj. et perfusion
     * Lésions sous-épendymaires disséminées dans le système ventriculaire
     * Aspect « **cotonneux** », restriction de la diffusion et rehaussement homogène
+
+!!! lumos ""
+    :fire: Chez l'adulte, les tumeurs primitives sont **supra-tentorielles** dans 80% des cas
 
 !!! imago "[Tumeur infra-tentorielle (métastase)](https://radiopaedia.org/cases/23187/studies/23243?lang=gb){:target="_blank"}"
     * Scanner sans injection dans le plan axial
@@ -39,7 +39,7 @@ Autre question pour orienter le diagnostic : la lésion est-elle au-dessus ou en
     * Périphérie hyperdense et centre hypodense (nécrotique)
     * Plage hypodense périlésionnelle (œdème vasogénique)
 
-!!! tip ""
+!!! lumos ""
     :fire: Devant une tumeur de fosse postérieure chez l'adulte, penser **métastase** +++
 
 
@@ -52,7 +52,7 @@ Autre question pour orienter le diagnostic : la lésion est-elle au-dessus ou en
     * Masse **dans le parenchyme** périventriculaire pariétal droit
     * Rehaussement périphérique "en cocarde" et œdème péri-lésionnel 
 
-!!! tip ""
+!!! lumos ""
     :fire: Le **glioblastome** est la tumeur cérébrale primitive la plus fréquente
 
 ### Autres tumeurs primitives
@@ -61,7 +61,7 @@ cf. [Adénome hypophysaire](adénome.md) et [Schwannome vestibulaire](schwannome
 
 ### Métastases
 
-!!! tip ""
+!!! lumos ""
     :fire: Principales causes des métastases : **poumon, sein et mélanome**
 
 !!! imago "[Métastases d'un cancer pulmonaire](https://radiopaedia.org/cases/5159/studies/6940?lang=gb){:target="_blank"}"
@@ -73,7 +73,7 @@ cf. [Adénome hypophysaire](adénome.md) et [Schwannome vestibulaire](schwannome
 
 ## Particularités pédiatriques :child_tone1:
 
-!!! tip ""
+!!! lumos ""
     :fire: Chez l'enfant, les tumeurs sont souvent dans la **fosse postérieure** +++
 
 !!! imago "[Craniopharyngiome](){:target="_blank"}"
@@ -93,7 +93,7 @@ cf. [Adénome hypophysaire](adénome.md) et [Schwannome vestibulaire](schwannome
 
 De nombreuses lésions cérébrales peuvent présenter un rehaussement périphérique.
 
-!!! tip ""
+!!! lumos ""
     :fire: **MAGIC Dr** : Méta Abcès Glioblastome Infarctus Contusion Démyélinisation Radionécrose
 
 !!! imago "[Toxoplasmose](https://radiopaedia.org/cases/53993/studies/60132?lang=gb){:target="_blank"}"
@@ -110,11 +110,9 @@ cf. [AVC](AVC.md), [TC](TC.md) et [SEP](SEP.md)
 
 ## Quiz
 
-Que pouvez-vous dire des dossiers suivants ?
-
 ??? question "[Homme de 57 ans, céphalées chroniques d'aggravation récente](https://radiopaedia.org/cases/37760/studies/39665?lang=gb){:target="_blank"}"
     * métastases hémorragiques d'un mélanome
-    !!! tip ""
+    !!! lumos ""
         :fire: Principales causes des métastases hémorragiques : **mélanome et rein** 
 
 ??? question "[Femme de 50 ans, céphalées chroniques d'aggravation récente](https://radiopaedia.org/cases/43429/studies/46792?lang=gb){:target="_blank"}"

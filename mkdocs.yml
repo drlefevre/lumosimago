@@ -2,7 +2,6 @@ site_name: LumosImago
 
 nav:
   - index.md
-  - Bases: bases/index.md
   - Anat:
     - Tête et cou: anat/tête-cou.md
     - Thorax: anat/thorax.md
@@ -26,12 +25,10 @@ nav:
 
 theme:
   name: material
-  features:
-    - navigation.tabs
   language: fr
   palette:
     primary: indigo
-    accent: light blue
+    accent: indigo
   favicon: assets/logo maj.svg
   logo: assets/logo maj.svg
 
