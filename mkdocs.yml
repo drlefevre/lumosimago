@@ -7,16 +7,17 @@ nav:
     - Thorax: anat/thorax.md
     - Abdomen et pelvis: anat/abdo-pelv.md
     - Membres: anat/membres.md
-  - Neuro/ORL:
-    - Tumeurs: neuro/tumeurs.md
+  - Neuro: 
+    - Tumeurs intracrâniennes: neuro/tumeurs.md
     - AVC: neuro/AVC.md
     - TC: neuro/TC.md
     - SEP: neuro/SEP.md
     - Démences: neuro/démences.md
     - Sciatique: neuro/sciatique.md
     - Alcool: neuro/alcool.md
-    - Adénome hypophysaire: neuro/adénome.md
     - Schwannome vestibulaire: neuro/schwannome.md
+    - Adénome hypohysaire : neuro/adénome.md
+  - ORL/CMF: ORL-CMF/index.md
   - Thorax: thorax/index.md
   - HGE: HGE/index.md
   - Pédia: pédia/index.md

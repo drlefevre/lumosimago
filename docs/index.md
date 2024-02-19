@@ -1,13 +1,13 @@
 ---
 hide:
-  - toc
+  -toc
 ---
 
 # :octicons-home-16:
 
 <p style="text-align: center">Site de <strong>radiologie</strong> destiné aux étudiants en médecine préparant l'<strong>EDN</strong>.</br>L'objectif est de mettre en lumière la sémiologie radiologique éligible.</p>
 
-##
+</br>
 
 <p style="text-align: center">Le contenu est <strong>gratuit</strong> et s'articule autour de 3 types d'encadré :</p>
 
@@ -21,7 +21,7 @@ hide:
 ??? question "[Dossier quiz : </strong>cliquez ici, interprétez l'imagerie, puis affichez la réponse](https://radiopaedia.org/cases/23526/studies/23629?lang=gb){:target="_blank"}"
     « Tout le monde se trompe, le génie comme le demeuré, et ce n'est pas l'erreur qui est dangereuse mais le fanatisme de celui qui croit qu'il ne se trompe pas. » (Éric-Emmanuel Schmitt)
 
-##
+</br>
 
 <p style="text-align: center"><i>Alexandre Lefèvre, interne de radiologie à Lille</br></i></p>
 
