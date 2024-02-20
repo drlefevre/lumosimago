@@ -19,7 +19,7 @@ nav:
     - EP: thorax/EP.md
     - PID: thorax/PID.md
     - Infections: thorax/infections.md
-    - Hémoptysie: thorax/hémoptysies.md
+    - Hémoptysie: thorax/hémoptysie.md
     - Pneumothorax: thorax/pneumothorax.md
   - Abdo-pelv: 
     - Douleurs quadrants supérieurs: abdo-pelv/douleurs sup.md
@@ -76,7 +76,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 copyright: |
-  &copy; 2024 Alexandre Lefèvre
+  &copy; 2024 Alexandre Lefèvre - lumosimago@gmail.com
 
 extra:
   generator: false
