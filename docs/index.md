@@ -5,11 +5,11 @@ hide:
 
 # :octicons-home-16:
 
-<p style="text-align: center">Site de <strong>radiologie</strong> destiné aux étudiants en médecine préparant l'<strong>EDN</strong>.</br>L'objectif est de mettre en lumière la sémiologie radiologique éligible.</p>
+<p style="text-align: center">Site de <strong>radiologie</strong> destiné aux étudiants en médecine préparant l'<strong>EDN</strong>.</p>
 
 </br>
 
-<p style="text-align: center">Le contenu est <strong>gratuit</strong> et s'articule autour de 3 types d'encadré :</p>
+<p style="text-align: center">L'objectif est de mettre en lumière la sémiologie radiologique.</br>Le contenu est <strong>gratuit</strong> et s'articule autour de 3 types d'encadré :</p>
 
 !!! imago "[Dossier d'imagerie Radiopaedia : cliquez ici](https://radiopaedia.org/cases/37092/studies/38787?lang=us){:target="_blank"}"
     * Faites défiler les images et sélectionnez les différentes séquences
@@ -18,7 +18,7 @@ hide:
 !!! lumos ""
     :fire: Mise en évidence des notions fondamentales
     
-??? question "[Dossier quiz : </strong>cliquez ici, interprétez l'imagerie, puis affichez la réponse](https://radiopaedia.org/cases/23526/studies/23629?lang=gb){:target="_blank"}"
+??? question "[Dossier quiz : </strong>cliquez ici, interprétez l'imagerie, puis affichez la réponse →](https://radiopaedia.org/cases/23526/studies/23629?lang=gb){:target="_blank"}"
     « Tout le monde se trompe, le génie comme le demeuré, et ce n'est pas l'erreur qui est dangereuse mais le fanatisme de celui qui croit qu'il ne se trompe pas. » (Éric-Emmanuel Schmitt)
 
 </br>

@@ -1,3 +1,5 @@
+# Tumeurs intracrâniennes
+
 :material-arrow-right: [Fiche LiSA "Tumeurs intracrâniennes"](https://livret.uness.fr/lisa/Tumeurs_intracr%C3%A2niennes){:target="_blank"}   
 :material-arrow-right: [Collège des Enseignants de Neurologie](https://www.cen-neurologie.fr/fr/deuxieme-cycle/tumeurs-intracraniennes){:target="_blank"}  
 
@@ -56,7 +58,13 @@ Autre question pour orienter le diagnostic : la lésion est-elle au-dessus ou en
 
 ### Autres tumeurs primitives
 
-cf. [Adénome hypophysaire](adénome.md) et [Schwannome vestibulaire](schwannome.md)
+!!! imago "[Adénome hypophysaire](){:target="_blank"}"
+    * 
+
+!!! lumos ""
+    :fire: 
+
+cf. [Schwannome vestibulaire](../ORL-CMF/schwannome.md)
 
 ### Métastases
 
@@ -104,7 +112,7 @@ De nombreuses lésions cérébrales peuvent présenter un rehaussement périphé
 !!! imago "[Abcès à pyogènes](){:target="_blank"}"
     * 
 
-cf. [AVC](AVC.md), [TC](TC.md) et [SEP](SEP.md)
+cf. [AVC](../neuro/AVC.md), [TC](../neuro/TC.md) et [SEP](../neuro/SEP.md)
 
 
 ## Quiz
