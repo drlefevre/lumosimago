@@ -10,18 +10,16 @@ nav:
   - Tumeurs: 
     - Intracrâniennes: tumeurs/intracrâniennes.md
     - Pulmonaires: tumeurs/pulmonaires.md
-    - Hépatiques: tumeurs/hépatiques.md
     - Digestives: tumeurs/digestives.md
-    - Urologiques: tumeurs/urologiques.md
-    - Gynécologiques: tumeurs/gynécologiques.md
+    - Uro-gynécologiques: tumeurs/uro-gynécologiques.md
     - Hémopathies: tumeurs/hémopathies.md
   - Thorax: 
-    - EP: thorax/EP.md
-    - PID: thorax/PID.md
+    - Douleurs aiguës: thorax/douleurs.md
     - Infections: thorax/infections.md
     - Hémoptysie: thorax/hémoptysie.md
     - Pneumothorax: thorax/pneumothorax.md
-  - Abdo-pelv: 
+    - PID: thorax/PID.md
+  - Abdomen et pelvis: 
     - Douleurs quadrants supérieurs: abdo-pelv/douleurs sup.md
     - Douleurs quadrants inférieurs: abdo-pelv/douleurs inf.md
     - Douleurs lombaires: abdo-pelv/douleurs lombaires.md
@@ -37,17 +35,16 @@ nav:
     - TC: neuro/TC.md
     - SEP: neuro/SEP.md
     - Démences: neuro/démences.md
-    - Sciatique: neuro/sciatique.md
-    - Alcool: neuro/alcool.md
+    - Compression médullaire: neuro/compression médullaire.md
   - ORL/CMF:
-    - Fractures: ORL-CMF/fractures.md
-    - Schwannome vestibulaire: ORL-CMF/schwannome.md
+    - Fractures faciales: ORL-CMF/fractures.md
+    - Surdité et vertiges: ORL-CMF/surdité.md
     - Parotides: ORL-CMF/parotides.md
     - Denture: ORL-CMF/denture.md
   - Pédiatrie: 
     - Fractures: pédia/fractures.md
     - Maltraitance: pédia/maltraitance.md
-    - Tumeurs: pédia/tumeurs.md
+    - Cancers: pédia/cancers.md
     - Boiterie: pédia/boiterie.md
 
 theme:
@@ -58,6 +55,7 @@ theme:
     accent: indigo
   favicon: assets/logo maj.svg
   logo: assets/logo maj.svg
+  custom_dir: overrides/
 
 plugins:
   - search
@@ -74,6 +72,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons/
 
 copyright: |
   &copy; 2024 Alexandre Lefèvre - lumosimago@gmail.com

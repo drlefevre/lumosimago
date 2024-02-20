@@ -1,7 +1,7 @@
 # Tumeurs intracrâniennes
 
-:material-arrow-right: [Fiche LiSA "Tumeurs intracrâniennes"](https://livret.uness.fr/lisa/Tumeurs_intracr%C3%A2niennes){:target="_blank"}   
-:material-arrow-right: [Collège des Enseignants de Neurologie](https://www.cen-neurologie.fr/fr/deuxieme-cycle/tumeurs-intracraniennes){:target="_blank"}  
+→ [Fiche LiSA "Tumeurs intracrâniennes"](https://livret.uness.fr/lisa/Tumeurs_intracr%C3%A2niennes){:target="_blank"}   
+→ [Collège des Enseignants de Neurologie](https://www.cen-neurologie.fr/fr/deuxieme-cycle/tumeurs-intracraniennes){:target="_blank"}  
 
 ## Topographie :brain:
 
@@ -64,7 +64,7 @@ Autre question pour orienter le diagnostic : la lésion est-elle au-dessus ou en
 !!! lumos ""
     :fire: 
 
-cf. [Schwannome vestibulaire](../ORL-CMF/schwannome.md)
+cf. [Schwannome vestibulaire](../ORL-CMF/surdité.md)
 
 ### Métastases
 
@@ -76,24 +76,6 @@ cf. [Schwannome vestibulaire](../ORL-CMF/schwannome.md)
     * Innombrables nodules centrimétriques avec rehaussement en cocarde
     * Supra et infra-tentoriels, de localisation **cortico-sous-corticale**
     * Plages d'œdème péri-lésionnel surtout frontale et pariétale gauches
-
-
-## Particularités pédiatriques :child_tone1:
-
-!!! lumos ""
-    :fire: Chez l'enfant, les tumeurs sont souvent dans la **fosse postérieure** +++
-
-!!! imago "[Craniopharyngiome](){:target="_blank"}"
-    * 
-
-!!! imago "[Médulloblastome](){:target="_blank"}"
-    * 
-
-!!! imago "[Astrocytome pilocytique](){:target="_blank"}"
-    * 
-
-!!! imago "[Ependymome](){:target="_blank"}"
-    * 
 
 
 ## Rehaussement en cocarde :simple-target:
