@@ -14,11 +14,11 @@ nav:
     - Uro-gynécologiques: tumeurs/uro-gynécologiques.md
     - Hémopathies: tumeurs/hémopathies.md
   - Thorax: 
+    - PID: thorax/PID.md
     - Douleurs aiguës: thorax/douleurs.md
     - Infections: thorax/infections.md
     - Hémoptysie: thorax/hémoptysie.md
     - Pneumothorax: thorax/pneumothorax.md
-    - PID: thorax/PID.md
   - Abdomen et pelvis: 
     - Douleurs quadrants supérieurs: abdo-pelv/douleurs sup.md
     - Douleurs quadrants inférieurs: abdo-pelv/douleurs inf.md
@@ -42,9 +42,9 @@ nav:
     - Parotides: ORL-CMF/parotides.md
     - Denture: ORL-CMF/denture.md
   - Pédiatrie: 
+    - Cancers: pédia/cancers.md
     - Fractures: pédia/fractures.md
     - Maltraitance: pédia/maltraitance.md
-    - Cancers: pédia/cancers.md
     - Boiterie: pédia/boiterie.md
 
 theme:
