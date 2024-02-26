@@ -38,7 +38,7 @@
 
 ### Scanner :radioactive:
 
-#### Fenêtrage de visulation
+#### Fenêtrage de visualisation
 
 #### Densités des structures
 

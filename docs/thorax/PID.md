@@ -4,15 +4,13 @@
 :material-arrow-right: [Collège de Pneumologie](https://cep.splf.fr/wp-content/uploads/2023/07/ITEM_210_PNEUMOPATHIES_INTERSTITIELLES_DIFFUSES_2023.pdf){:target="_blank"}
 
 
-## Lésions élémentaires
+## Réticulations
 
-### Réticulations
-
-!!! imago "[Réticulations **inter**lobulaires (OAP)](){:target="_blank"}"
+!!! imago "[Réticulations **inter**lobulaires (lymphangite carcinomateuse)](){:target="_blank"}"
     * __
     *
 
-!!! imago "[Réticulations **intra**lobulaires (PINS)](){:target="_blank"}"
+!!! imago "[Réticulations **intra**lobulaires (pneumopathie interstitielle non spécifique)](){:target="_blank"}"
     * __
     *
 
@@ -20,7 +18,8 @@
     * __
     *
 
-### (Micro)nodules
+
+## (Micro)nodules
 
 !!! imago "[Miliaire (tuberculose)](){:target="_blank"}"
     * __
@@ -34,55 +33,37 @@
     * __
     *
 
-### Hyperdensités étendues
 
-!!! imago "[Verre dépoli (pneumocystose)](){:target="_blank"}"
+## Hyperdensités étendues
+
+!!! imago "[Verre dépoli (pneumopathie d'hypersensibilité)](){:target="_blank"}"
     * __
     *
 
-!!! imago "[Condensations (PFLA)](){:target="_blank"}"
-    * __
-    *
-
-### Cavités
-
-!!! imago "[Emphysème (BPCO)](){:target="_blank"}"
-    * __
-    *
-
-!!! imago "[Rayon de miel (PR)](){:target="_blank"}"
-    * __
-    *
-
-!!! imago "[Nodules troués (métastases)](){:target="_blank"}"
+!!! imago "[Condensations (pneumopathie organisée cryptogénique)](){:target="_blank"}"
     * __
     *
 
 
-## PID fibrosantes
+## Signes de fibrose
 
-!!! imago "[PIC (FPI)](){:target="_blank"}"
+!!! imago "[Rayon de miel (pneumopathie interstitielle commune)](){:target="_blank"}"
     * __
     *
 
-!!! imago "[PINS (sclérodermie)](){:target="_blank"}"
+!!! imago "[Bronchectasies par traction (polyarthrite rhumatoïde)](){:target="_blank"}"
     * __
     *
 
 
 ## Quiz
 
-??? question "[x](){:target="_blank"}"
+??? question "[Silicose](){:target="_blank"}"
     * __
     * 
     * :star: Silicose :star:
 
-??? question "[x](){:target="_blank"}"
-    * __
-    *
-    * :star: PHS :star:
-
-??? question "[x](){:target="_blank"}"
+??? question "[Pneumopathie d'hypersensibilité](){:target="_blank"}"
     * __
     * 
-    * :star: Lymphangite carcinomateuse :star:
+    * :star:  :star:
