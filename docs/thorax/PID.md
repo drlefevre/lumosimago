@@ -4,7 +4,7 @@
 :material-arrow-right: [Collège de Pneumologie](https://cep.splf.fr/wp-content/uploads/2023/07/ITEM_210_PNEUMOPATHIES_INTERSTITIELLES_DIFFUSES_2023.pdf){:target="_blank"}
 
 
-## Réticulations
+## Réticulations :spider_web:
 
 !!! imago "[Réticulations **inter**lobulaires (lymphangite carcinomateuse)](){:target="_blank"}"
     * __
@@ -19,7 +19,7 @@
     *
 
 
-## (Micro)nodules
+## (Micro)nodules :material-dots-hexagon:
 
 !!! imago "[Miliaire (tuberculose)](){:target="_blank"}"
     * __
@@ -34,7 +34,7 @@
     *
 
 
-## Hyperdensités étendues
+## Hyperdensités étendues :material-yin-yang:
 
 !!! imago "[Verre dépoli (pneumopathie d'hypersensibilité)](){:target="_blank"}"
     * __
@@ -45,7 +45,7 @@
     *
 
 
-## Signes de fibrose
+## Signes de fibrose :fontawesome-solid-explosion:
 
 !!! imago "[Rayon de miel (pneumopathie interstitielle commune)](){:target="_blank"}"
     * __
