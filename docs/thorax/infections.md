@@ -9,34 +9,27 @@
 
 !!! imago "[Pneumonie franche lobaire aiguë](){:target="_blank"}"
     * __
-    *
 
 !!! imago "[Pneumonie atypique](){:target="_blank"}"
     * __
-    *
 
 !!! imago "[Pneumonie virale](){:target="_blank"}"
     * __
-    *
 
 !!! imago "[Légionellose](){:target="_blank"}"
     * __
-    *
 
 
 ## Immunodéprimé :microbe:
 
 !!! imago "[Tuberculose](){:target="_blank"}"
     * __
-    *
 
 !!! imago "[Pneumocystose](){:target="_blank"}"
     * __
-    *
 
 !!! imago "[Aspergillose](){:target="_blank"}"
     * __
-    *
 
 
 ## Quiz

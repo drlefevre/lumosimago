@@ -14,9 +14,10 @@ nav:
     - Uro-gynécologiques: tumeurs/uro-gynécologiques.md
     - Hémopathies: tumeurs/hémopathies.md
   - Thorax: 
-    - PID: thorax/PID.md
+    - Détresse respiratoire: thorax/détresse.md
     - Douleurs aiguës: thorax/douleurs.md
     - Infections: thorax/infections.md
+    - PID: thorax/PID.md
   - Abdomen et pelvis: 
     - Douleurs quadrants supérieurs: abdo-pelv/douleurs sup.md
     - Douleurs quadrants inférieurs: abdo-pelv/douleurs inf.md

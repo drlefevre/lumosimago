@@ -8,38 +8,30 @@
 
 !!! imago "[Dissection aortique](){:target="_blank"}"
     * __
-    *
 
 !!! imago "[Embolie pulmonaire](){:target="_blank"}"
     * __
-    *
 
 !!! imago "[Syndrome coronarien aiguë](){:target="_blank"}"
     * __
-    *
 
 !!! imago "[Péricardite](){:target="_blank"}"
     * __
-    *
 
 
 ## Autres causes :lungs:
 
 !!! imago "[Pneumothorax](){:target="_blank"}"
     * __
-    *
 
 !!! imago "[Pneumopathie infectieuse](){:target="_blank"}"
     * __
-    *
 
 !!! imago "[Epanchement pleural](){:target="_blank"}"
     * __
-    *
 
 !!! imago "[Pneumomédiastin](){:target="_blank"}"
     * __
-    *
 
 
 ## Quiz
