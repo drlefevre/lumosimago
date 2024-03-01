@@ -18,13 +18,13 @@
 
 ## (Micro)nodules :material-dots-hexagon:
 
-!!! imago "[Miliaire (tuberculose)](){:target="_blank"}"
-    * __
-
 !!! imago "[Micronodules périlymphatiques (sarcoïdose)](){:target="_blank"}"
     * __
 
 !!! imago "[Micronodules centrolobulaires (bronchiolite)](){:target="_blank"}"
+    * __
+
+!!! imago "[Miliaire (tuberculose)](){:target="_blank"}"
     * __
 
 

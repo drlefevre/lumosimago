@@ -41,10 +41,10 @@ nav:
     - Parotides: ORL-CMF/parotides.md
     - Denture: ORL-CMF/denture.md
   - Pédiatrie: 
+    - Urgences: pédia/urgences.md
     - Cancers: pédia/cancers.md
-    - Fractures: pédia/fractures.md
-    - Maltraitance: pédia/maltraitance.md
-    - Boiterie: pédia/boiterie.md
+    - Fractures et boiterie: pédia/fractures.md
+    - Maladies génétiques: pédia/génétique.md
 
 theme:
   name: material
