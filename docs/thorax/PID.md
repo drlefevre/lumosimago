@@ -16,7 +16,7 @@
     * __
 
 
-## (Micro)nodules :material-dots-hexagon:
+## (Micro)nodules :material-dots-hexagon:{.martingale}
 
 !!! imago "[Micronodules périlymphatiques (sarcoïdose)](){:target="_blank"}"
     * __
@@ -28,7 +28,7 @@
     * __
 
 
-## Hyperdensités étendues :material-yin-yang:
+## Hyperdensités étendues :material-yin-yang:{.martingale}
 
 !!! imago "[Verre dépoli (pneumopathie d'hypersensibilité)](){:target="_blank"}"
     * __
@@ -37,7 +37,7 @@
     * __
 
 
-## Signes de fibrose :fontawesome-solid-explosion:
+## Signes de fibrose :fontawesome-solid-explosion:{.martingale}
 
 !!! imago "[Rayon de miel (pneumopathie interstitielle commune)](){:target="_blank"}"
     * __

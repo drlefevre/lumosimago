@@ -5,7 +5,7 @@
 :material-arrow-right: [Pilly](https://www.infectiologie.com/UserFiles/File/pilly-etudiant/items-edition-2023/pilly-2023-item-154.pdf){:target="_blank"}
 
 
-## Pneumonies aiguës communautaires :fontawesome-solid-head-side-cough:
+## Pneumonies aiguës communautaires :fontawesome-solid-head-side-cough:{.martingale}
 
 !!! imago "[Pneumonie franche lobaire aiguë](){:target="_blank"}"
     * __
