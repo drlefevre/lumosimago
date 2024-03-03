@@ -4,34 +4,34 @@
 ## Hémopathies :drop_of_blood:
 
 ??? question ":star:"
-    [](){:target="_blank"}"
+    [Homme de 83 ans, masses paravertébrales découvertes sur une radiographie thoracique](https://radiopaedia.org/cases/41299/studies/44119?lang=gb){:target="_blank"}
 
 ??? question ":star: :star: "
-    [](){:target="_blank"}"
+    [Homme de 20 ans, anémie chronique](https://radiopaedia.org/cases/36625/studies/38190?lang=gb){:target="_blank"}
 
 ??? question ":star: :star: :star:"
-    [](){:target="_blank"}"
+    [Homme de 30 ans, SIDA, AEG et papules cutanées violacées sur la tête, le cou et le tronc](https://radiopaedia.org/cases/85247/studies/100811?lang=gb){:target="_blank"}
+
+
+## Reins :custom-kidney:
+
+??? question ":star:"
+    [Femme de 60 ans, douleurs dans le flanc gauche, pas de chirurgie récente](https://radiopaedia.org/play/54/entry/238641/case/58550/studies/65713?lang=gb){:target="_blank"}
+
+??? question ":star: :star: "
+    [Homme de 40 ans, douleurs lombaires récidivantes](https://radiopaedia.org/cases/71488/studies/81833?lang=gb){:target="_blank"}
+
+??? question ":star: :star: :star:"
+    [Femme de 70 ans, douleurs abdominales chroniques et insuffisance rénale](https://radiopaedia.org/play/54/entry/603/case/9931/studies/10496?lang=gb){:target="_blank"}
 
 
 ## Rétropéritoine :microscope:
 
 ??? question ":star:"
-    [](){:target="_blank"}"
+    [Homme de 40 ans, lombalgies chroniques, douleurs flanc et testicule gauches depuis 3 semaines](https://radiopaedia.org/cases/151931/studies/126020?lang=gb){:target="_blank"}
 
 ??? question ":star: :star: "
-    [](){:target="_blank"}"
+    [Homme de 70 ans, varicocèle droite](https://radiopaedia.org/cases/49173/studies/54277?lang=gb){:target="_blank"}
 
 ??? question ":star: :star: :star:"
-    [](){:target="_blank"}"
-
-
-## Malformations :custom-kidney:
-
-??? question ":star:"
-    [](){:target="_blank"}"
-
-??? question ":star: :star: "
-    [](){:target="_blank"}"
-
-??? question ":star: :star: :star:"
-    [](){:target="_blank"}"
+    [Homme de 30 ans, douleurs abdominales et altération de l'état général](https://radiopaedia.org/cases/72763/studies/83391?lang=gb){:target="_blank"}
