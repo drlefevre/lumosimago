@@ -6,11 +6,15 @@
 
 ## Tête :baby:
 
-!!! imago "[Encéphalite herpétique](){:target="_blank"}"
-    * __
-
 !!! imago "[Mastoïdite avec thrombose du sinus latéral](){:target="_blank"}"
     * __
+
+!!! imago "[Angiome sous-glottique](){:target="_blank"}"
+    * __
+    * 
+
+!!! lumos ""
+    :fire: À évoquer devant une dyspnée laryngée < M6
 
 
 ## Thorax :lungs:
@@ -35,11 +39,6 @@
 
 
 ## Quiz
-
-??? question "[Dyspnée laryngée < M6](){:target="_blank"}"
-    * __
-    * 
-    * :star: Angiome sous-glottique :star:
 
 ??? question "[Nourrisson, détresse respiratoire et sepsis grave](){:target="_blank"}"
     * __
