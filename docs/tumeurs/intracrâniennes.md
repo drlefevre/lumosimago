@@ -67,7 +67,7 @@ Autre question pour orienter le diagnostic : la lésion est-elle au-dessus ou en
 !!! lumos ""
     :fire: Il s'agit d'un **macro**adénome hypophysaire car **> 1 cm**
 
-cf. [Schwannome vestibulaire](../ORL-CMF/surdité.md)
+<!--cf. [Schwannome vestibulaire](../ORL-CMF/surdité.md)-->
 
 ### Métastases
 
@@ -93,7 +93,7 @@ De nombreuses lésions cérébrales peuvent présenter un rehaussement périphé
     * **Restriction de la diffusion** (confirmée par l'hyposignal ADC)
     * Importantes plages d'œdème périlésionnel
 
-cf. [AVC](../neuro/AVC.md), [TC](../neuro/TC.md) et [SEP](../neuro/SEP.md)
+<!--cf. [AVC](../neuro/AVC.md), [TC](../neuro/TC.md) et [SEP](../neuro/SEP.md)-->
 
 
 ## Quiz

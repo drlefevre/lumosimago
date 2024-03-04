@@ -12,7 +12,7 @@
 ??? question "[Quiz : cliquez ici, interprétez l'imagerie, puis affichez la réponse →](https://radiopaedia.org/cases/23526/studies/23629?lang=gb){:target="_blank"}"
     « Tout le monde se trompe, le génie comme le demeuré, et ce n'est pas l'erreur qui est dangereuse mais le fanatisme de celui qui croit qu'il ne se trompe pas. » (Éric-Emmanuel Schmitt)
 
-</br><p style="text-align: center">L'objectif est d'**illustrer la sémiologie radiologique** des pathologies tombables.</br>Vous allez réviser le programme de l'EDN du point de vue du radiologue !</br></p>
+</br><p style="text-align: center">L'objectif est d'illustrer la sémiologie radiologique des pathologies tombables.</br>Vous allez **réviser le programme de l'EDN du point de vue de la radiologie** !</br></p>
 
 </br><p style="text-align: center"><i>Alexandre Lefèvre, interne de radiologie à Lille</br></i></p>
 
