@@ -1,10 +1,10 @@
-# Tumeurs broncho-pulmonaires
+# Tumeurs broncho-pulmonaires et ORL
 
-:material-arrow-right: [Fiche LiSA](https://livret.uness.fr/lisa/Tumeurs_du_poumon,_primitives_et_secondaires){:target="_blank"}   
-:material-arrow-right: [Collège de Pneumologie](https://cep.splf.fr/wp-content/uploads/2023/07/ITEM_309_CANCER_2023.pdf){:target="_blank"}
+:material-arrow-right: Fiche LiSA : [tumeurs du poumon](https://livret.uness.fr/lisa/Tumeurs_du_poumon,_primitives_et_secondaires){:target="_blank"}, [cancers des VADS](https://livret.uness.fr/lisa/Tumeurs_de_la_cavit%C3%A9_buccale,_naso-sinusiennes_et_du_cavum,_et_des_voies_a%C3%A9rodigestives_sup%C3%A9rieures){:target="_blank"}, [cancers thyroïdiens](https://livret.uness.fr/lisa/Goitre,_nodules_thyro%C3%AFdiens_et_cancers_thyro%C3%AFdiens){:target="_blank"}.    
+:material-arrow-right: [Collège de Pneumologie](https://cep.splf.fr/wp-content/uploads/2023/07/ITEM_309_CANCER_2023.pdf){:target="_blank"}.
 
 
-## Tumeurs primitives :lungs:
+## Cancers pulmonaires :lungs:
 
 !!! imago "[Adénocarcinome](){:target="_blank"}"
     * __
@@ -34,6 +34,18 @@
     * __
 
 !!! imago "[Tumeur neurogène du médiastin postérieur](){:target="_blank"}"
+    * __
+
+
+## Cancers des VADS et de la thyroïde :speaking_head:
+
+!!! imago "[Cancer du larynx](){:target="_blank"}"
+    * __
+
+!!! imago "[IRM cancer buccal](){:target="_blank"}"
+    * __
+
+!!! imago "[Nodule thyroïdien suspect](){:target="_blank"}"
     * __
 
 
