@@ -27,7 +27,7 @@ nav:
   - Neurologie et ORL: 
     - Urgences: neuro/urgences.md
     - Traumatisme: neuro/TC.md
-    - Démences: neuro/démences.md
+    - Confusion/démences: neuro/démences.md
     - ORL et ophtalmologie: neuro/ORL.md
   - Ostéo-articulaire: 
     - Fractures pathologiques: ostéo/fracturespatho.md
