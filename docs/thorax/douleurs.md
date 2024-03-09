@@ -33,6 +33,9 @@
 !!! imago "[Pneumomédiastin](){:target="_blank"}"
     * __
 
+!!! imago "[Traumatisme thoracique](){:target="_blank"}"
+    * __
+
 
 ## Quiz
 

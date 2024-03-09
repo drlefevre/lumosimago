@@ -17,7 +17,7 @@
 
 !!! imago "[PFLA](){:target="_blank"}"
     * __
-    
+
 
 ## Démences :exploding_head:
 
@@ -37,9 +37,6 @@
     * __
 
 !!! imago "[Syndrome de Korsakoff](){:target="_blank"}"
-    * __
-
-!!! imago "[Maladie de Marchiafava-Bignami](){:target="_blank"}"
     * __
 
 

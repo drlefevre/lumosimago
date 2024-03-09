@@ -33,7 +33,7 @@
 
 ### Malin
 
-!!! imago "[CHC](){:target="_blank"}"
+!!! imago "[CHC sur cirrhose](){:target="_blank"}"
     * __
 
 !!! imago "[Cholangiocarcinome](){:target="_blank"}"

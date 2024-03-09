@@ -19,11 +19,9 @@ nav:
     - Infections: thorax/infections.md
     - PID: thorax/PID.md
   - Abdomen et pelvis: 
-    - Douleurs quadrants sup.: abdo-pelv/douleurssup.md
-    - Douleurs quadrants inf.: abdo-pelv/douleursinf.md
-    - Douleurs lombaires: abdo-pelv/douleurslombaires.md
-    - Syndrome occlusif: abdo-pelv/occlusion.md
-    - AVP: abdo-pelv/AVP.md
+    - Syndrome occlusif: abdo/occlusion.md
+    - Douleurs abdominales: abdo/douleurs.md
+    - Douleurs lombaires et pelviennes: abdo/uro-gynéco.md
   - Neurologie et ORL: 
     - Urgences: neuro/urgences.md
     - Traumatisme: neuro/TC.md

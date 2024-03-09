@@ -37,6 +37,9 @@
 !!! imago "[Volvulus du grêle](){:target="_blank"}"
     * __
 
+!!! imago "[Inhalation corps étranger](){:target="_blank"}"
+    * __
+
 
 ## Quiz
 
