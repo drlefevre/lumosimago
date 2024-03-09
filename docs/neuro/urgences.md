@@ -28,9 +28,6 @@
 !!! imago "[Encéphalite herpétique](){:target="_blank"}"
     * __
 
-!!! imago "[Encéphalopathie de Gayet-Wernicke](){:target="_blank"}"
-    * __
-
 !!! imago "[Compression médullaire](){:target="_blank"}"
     * __
 

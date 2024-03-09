@@ -12,16 +12,14 @@
 ??? question "[Quiz : cliquez ici, interprétez l'imagerie, puis affichez la réponse →](https://radiopaedia.org/cases/23526/studies/23629?lang=gb){:target="_blank"}"
     « Tout le monde se trompe, le génie comme le demeuré, et ce n'est pas l'erreur qui est dangereuse mais le fanatisme de celui qui croit qu'il ne se trompe pas. » (Éric-Emmanuel Schmitt)
 
-</br><p style="text-align: center">L'objectif est de réviser l'**EDN** du point de vue de la radiologie !</br></p>
+</br><p style="text-align: center">:dart: L'objectif est de réviser l'**EDN** du point de vue de la radiologie !</br></p>
 
-</br><p style="text-align: center"><i>Alexandre Lefèvre, interne de radiologie à Lille</br></i></p>
+</br><p style="text-align: center">Avis et suggestions bienvenus :smile: <a href="mailto:lumosimago@gmail.com">lumosimago@gmail.com</a></p>
+<p style="text-align: center"><i>Alexandre Lefèvre, interne de radiologie à Lille</br></i></p>
 
 <figure markdown="span">
   [![Martingale](assets/V3.jpg){width="350"}](https://www.editions-ellipses.fr/accueil/15025-27870-imagerie-medicale-entrainement-2e-edition-9782340082618.html#/1-format_disponible-broche){:target="_blank"}
 </figure>
-
-<p style="text-align: center">Avis et suggestions bienvenus &#128578; <a href="mailto:lumosimago@gmail.com">lumosimago@gmail.com</a></p>
-
 
 
 ## Modalités d'imagerie (rappels)

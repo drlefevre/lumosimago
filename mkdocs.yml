@@ -28,10 +28,8 @@ nav:
     - Confusion/démences: neuro/démences.md
     - ORL et ophtalmologie: neuro/ORL.md
   - Ostéo-articulaire: 
-    - Fractures pathologiques: ostéo/fracturespatho.md
-    - Ostéoporose: ostéo/ostéoporose.md
-    - Arthrose: ostéo/arthrose.md
-    - Arthrite: ostéo/arthrite.md
+    - Traumatique: ostéo/fractures.md
+    - Arthrose/arthrite: ostéo/arthrose.md
   - Pédiatrie: 
     - Urgences du nourrisson: pédia/urgnourrisson.md
     - Urgences de l'enfant: pédia/urgenfant.md
