@@ -18,9 +18,8 @@
     * _Scanner après lavement, ingestion et injection de produit de contraste_
     * Important épaississement des parois de l'iléon distal
     * Volumineuses adénomégalies notamment dans le hile hépatique
-
-!!! lumos ""
-    :fire: Y penser devant une **masse abdominale d'évolution très rapide**
+    !!! lumos ""
+        :fire: Y penser devant une **masse abdominale d'évolution très rapide**
 
 
 ## Tumeurs cérébrales :brain:
@@ -48,9 +47,8 @@
     * Rehaussement hétérogène de la portion nodulaire
     * Partiellement hyperintense en T1 : remaniements hémorragiques
     * Important **effet de masse sur le chiasma optique**
-
-!!! lumos ""
-    :fire: A évoquer devant une **cassure de la vitesse de croissance** après 4 ans
+    !!! lumos ""
+        :fire: A évoquer devant une **cassure de la vitesse de croissance** après 4 ans
 
 
 ## Tumeurs abdominales :custom-kidney:
@@ -59,9 +57,8 @@
     * _Scanner axial injecté et échographie annotés_
     * Masse rétropéritonéale **refoulant le rein** gauche en arrière
     * Ascite et épanchements pleuraux 
-
-!!! lumos ""
-    :fire: Cancer d'une **surrénale** ou d'un ganglion sympathique
+    !!! lumos ""
+        :fire: Cancer d'une **surrénale** ou d'un ganglion sympathique
 
 !!! imago "[Néphroblastome](https://radiopaedia.org/cases/43889/studies/47373?lang=gb){:target="_blank"}"
     * _Topogramme et scanner IV- puis injecté aux temps artériel, veineux et tardif_
@@ -78,17 +75,15 @@
     * _Radiographies de face et de profil du genou droit_
     * Réaction périostée « en feu d'herbe » autour du tibia proximal
     * Ostéocondensation mal limitée sous le plateau tibial externe
-
-!!! lumos ""
-    :fire: Surtout dans les **métaphyses** des os longs et près du genou
+    !!! lumos ""
+        :fire: Surtout dans les **métaphyses** des os longs et près du genou
 
 !!! imago "[Sarcome d'Ewing](https://radiopaedia.org/cases/70892/studies/81099?lang=gb){:target="_blank"}"
     * _Radiographies de face et de profil de la jambe gauche_
     * Ostéolyse dans la diaphyse proximale du tibia
     * Réaction périostée « en bulbe d'oignon » en dedans
-
-!!! lumos ""
-    :fire: Surtout dans les **diaphyses** des os longs
+    !!! lumos ""
+        :fire: Surtout dans les **diaphyses** des os longs
 
 
 ## Quiz

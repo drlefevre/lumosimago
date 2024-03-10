@@ -65,3 +65,8 @@
     * __
     * 
     * :star:  :star:
+
+??? question "[Syndrome de Pancoast Tobias](){:target="_blank"}"
+    * __
+    * https://livret.uness.fr/lisa/Savoir_%C3%A9voquer_le_diagnostic_de_plexopathie_OIC-095-03-A
+    * :star:  :star:

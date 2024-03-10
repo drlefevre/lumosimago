@@ -22,7 +22,7 @@
 </figure>
 
 
-## Modalités d'imagerie (rappels)
+## Modalités d'imagerie
 
 ### Radiographie standard :radioactive:
 

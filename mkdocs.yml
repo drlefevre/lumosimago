@@ -2,11 +2,7 @@ site_name: LumosImago
 
 nav:
   - index.md
-  - Anatomie:
-    - Tête et cou: anat/tête-cou.md
-    - Thorax: anat/thorax.md
-    - Abdomen et pelvis: anat/abdo-pelv.md
-    - Membres: anat/membres.md
+  - Anatomie: anat.md
   - Tumeurs: 
     - Intracrâniennes: tumeurs/intracrâniennes.md
     - Pulmonaires et ORL: tumeurs/pulmonaires.md

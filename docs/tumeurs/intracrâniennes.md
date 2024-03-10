@@ -19,9 +19,8 @@
     * Masse paramédiane à **base d'implantation méningée** (voir coronal T2)
     * Effet de masse sur le parenchyme cérébral fronto-pariétal gauche
     * Lésion bien circonscrite avec rehaussement homogène
-
-!!! lumos ""
-    :fire: La grande majorité des tumeurs extra-axiales sont des **méningiomes**
+    !!! lumos ""
+        :fire: La grande majorité des tumeurs extra-axiales sont des **méningiomes**
 
 ### Supra/infra-tentorielle
 Autre question pour orienter le diagnostic : la lésion est-elle au-dessus ou en-dessous de la tente du cervelet ?
@@ -30,18 +29,16 @@ Autre question pour orienter le diagnostic : la lésion est-elle au-dessus ou en
     * _*_IRM en séquences FLAIR, T2, SWI, T1, diffusion, T1 après inj. et perfusion_*_
     * Lésions sous-épendymaires disséminées dans le système ventriculaire
     * Aspect « **cotonneux** », restriction de la diffusion et rehaussement homogène
-
-!!! lumos ""
-    :fire: Chez l'adulte, les tumeurs primitives sont **supra-tentorielles** dans 80% des cas
+    !!! lumos ""
+        :fire: Chez l'adulte, les tumeurs primitives sont **supra-tentorielles** dans 80% des cas
 
 !!! imago "[Tumeur infra-tentorielle (métastase)](https://radiopaedia.org/cases/23187/studies/23243?lang=gb){:target="_blank"}"
     * _Scanner sans injection dans le plan axial_
     * Masse **cérébelleuse** supérieure droite bien circonscrite
     * Périphérie hyperdense et centre hypodense (nécrotique)
     * Plage hypodense périlésionnelle (œdème vasogénique)
-
-!!! lumos ""
-    :fire: Devant une tumeur de fosse postérieure chez l'adulte, penser **métastase** +++
+    !!! lumos ""
+        :fire: Devant une tumeur de fosse postérieure chez l'adulte, penser **métastase** +++
 
 
 ## Types histologiques :microscope:
@@ -52,9 +49,8 @@ Autre question pour orienter le diagnostic : la lésion est-elle au-dessus ou en
     * _Scanner sans puis après injection reconstruit dans les 3 plans_
     * Masse **dans le parenchyme** périventriculaire pariétal droit
     * Rehaussement périphérique "en cocarde" et œdème péri-lésionnel 
-
-!!! lumos ""
-    :fire: Le **glioblastome** est la tumeur cérébrale primitive la plus fréquente
+    !!! lumos ""
+        :fire: Le **glioblastome** est la tumeur cérébrale primitive la plus fréquente
 
 ### Autres tumeurs primitives
 
@@ -63,9 +59,8 @@ Autre question pour orienter le diagnostic : la lésion est-elle au-dessus ou en
     * Elargissement de la selle turcique par une masse hypohysaire
     * Compression du **chiasma** optique et infiltration du **sinus caverneux** droit
     * Hypohyse saine refoulée vers la gauche 
-
-!!! lumos ""
-    :fire: Il s'agit d'un **macro**adénome hypophysaire car **> 1 cm**
+    !!! lumos ""
+        :fire: Il s'agit d'un **macro**adénome hypophysaire car **> 1 cm**
 
 <!--cf. [Schwannome vestibulaire](../ORL-CMF/surdité.md)-->
 
