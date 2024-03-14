@@ -11,9 +11,6 @@
 !!! imago "[Territoires artériels cérébraux](https://radiopaedia.org/cases/10814/studies/11258?lang=gb){:target="_blank"}"
     * __
 
-!!! imago "[Sinus de la face](https://radiopaedia.org/cases/56635/studies/63395?lang=gb){:target="_blank"}"
-    * __
-
 !!! imago "[Scanner cervical](https://radiopaedia.org/cases/74853/studies/85868){:target="_blank"}"
     * __
 
@@ -41,9 +38,6 @@
     * __
 
 !!! imago "[Foie](https://radiopaedia.org/cases/45972/studies/50576?source_of=https%3A%2F%2Fradiopaedia.org%2Farticles%2Fliver){:target="_blank"}"
-    * __
-
-!!! imago "[Voies biliaires](https://radiopaedia.org/cases/38199/studies/40208?source_of=https%3A%2F%2Fradiopaedia.org%2Farticles%2Fbiliary-tree-anatomy){:target="_blank"}"
     * __
 
 !!! imago "[Rate](https://radiopaedia.org/cases/31784/studies/32720?source_of=https%3A%2F%2Fradiopaedia.org%2Farticles%2Fspleen-1){:target="_blank"}"
