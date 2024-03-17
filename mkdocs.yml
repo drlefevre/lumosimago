@@ -3,29 +3,28 @@ site_name: LumosImago
 nav:
   - index.md
   - Anatomie: anat.md
-  - Tumeurs: 
-    - Intracrâniennes: tumeurs/intracrâniennes.md
-    - Pulmonaires et ORL: tumeurs/pulmonaires.md
-    - Digestives: tumeurs/digestives.md
-    - Uro-gynécologiques: tumeurs/uro-gynécologiques.md
-    - Hémopathies: tumeurs/hémopathies.md
   - Thorax: 
     - Détresse respiratoire: thorax/détresse.md
     - Douleurs aiguës: thorax/douleurs.md
     - Infections: thorax/infections.md
     - PID: thorax/PID.md
+    - Tumeurs: thorax/tumeurs.md
   - Abdomen et pelvis: 
     - Syndrome occlusif: abdo/occlusion.md
     - Douleurs abdominales: abdo/douleurs.md
     - Douleurs lombaires et pelviennes: abdo/uro-gynéco.md
+    - Tumeurs digestives: abdo/tumdig.md
+    - Tumeurs uro-gynéco: abdo/tumurogyn.md
   - Neurologie et ORL: 
     - Urgences: neuro/urgences.md
     - Traumatisme: neuro/TC.md
     - Confusion/démences: neuro/démences.md
     - ORL et ophtalmologie: neuro/ORL.md
-  - Ostéo-articulaire: 
+    - Tumeurs: neuro/tumeurs.md
+  - Ostéo et hémato: 
     - Traumatique: ostéo/fractures.md
     - Arthrose/arthrite: ostéo/arthrose.md
+    - Hémopathies: ostéo/hémopathies.md
   - Pédiatrie: 
     - Urgences du nourrisson: pédia/urgnourrisson.md
     - Urgences de l'enfant: pédia/urgenfant.md
