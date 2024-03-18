@@ -31,8 +31,7 @@ nav:
     - Fractures et boiterie: pédia/fractures.md
     - Cancers: pédia/cancers.md
     - Maladies génétiques: pédia/génétique.md
-  - Quiz:
-    - Funny Monday: quiz/funnymonday.md
+  - Quiz: quiz/funnymonday.md
 
 theme:
   name: material

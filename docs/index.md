@@ -38,10 +38,36 @@
 
 #### Fenêtrage de visualisation
 
+Le fenêtrage consiste à sélectionner un intervalle de densités (en Unités Hounsfield) et à l'étaler sur l'ensemble des niveaux de gris : les densités supérieures aux maximum de la fenêtre choisie sont affichées en blancs et les densités inférieures au minimum sont en noir.
+
+!!! imago "[Carreau d'arbalète traversant le ventricule gauche](https://radiopaedia.org/cases/ace7d18a0adb0952a6e5088e8a10e997/studies/148060?lang=gb){:target="_blank"}"
+    !!! lumos ""
+        :fire: Le fenêtrage permet d'accroître le contraste des structures étudiées.
+    * _Fenêtre tissus mous (-150 à 250 UH) :_ hémopéricarde
+    * _Fenêtre parenchymateux (-1350 à 150 UH):_ contusion pulmonaire basale
+    * _Fenêtre osseuse (-1400 à 2200 UH):_ pas de fracture
+    
+
 #### Densités des structures
+
+Par définition, la densité de l'eau est de 0 UH et celle de l'air est de -1000 UH.
+
+!!! imago "[Ascite cirrhotique et hématome intrapéritonéal](https://radiopaedia.org/cases/7c94398bb675d7965e8a5cddb401e1f7/studies/147956?lang=gb){:target="_blank"}"
+    !!! lumos ""
+        :fire: Le sang frais est spontanément hyperdense
 
 #### Injection de produit de contraste
 
+Le protocole d'acquisition est adapté en fonction du contexte : merci de le préciser...
+
+!!! imago "[Uroscanner dans un contexte d'hématurie](){:target="_blank"}"
+    * _Acquisition sans injection :_ calcifications aortiques et phlébolithes pelviens
+    * _Temps artériel (20-40s):_ opacification des artères et des cortex rénaux
+    !!! lumos ""
+        :fire: Rate physiologiquement « tigrée » (rehaussement hétérogène) au temps artériel
+    * _Temps veineux (50-90s):_ rehaussement homogène des organes pleins
+    * _Temps excréteur (10 min):_ opacification des voies urinaires   
+        :material-arrow-right: avez-vous remarqué les deux tumeurs dans l'uretère pelvien gauche ?
 
 ### IRM :white_check_mark:
 
