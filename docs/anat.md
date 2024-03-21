@@ -28,7 +28,7 @@
 
 !!! imago "[Segmentation et vascularisation hépatique](https://radiopaedia.org/cases/45972/studies/50576?source_of=https%3A%2F%2Fradiopaedia.org%2Farticles%2Fliver){:target="_blank"}"
 
-!!! imago "[Rétropéritoine](){:target="_blank"}"
+!!! imago "[Rétropéritoine](https://radiopaedia.org/cases/186536/studies/148389){:target="_blank"}"
 
 !!! imago "[Uretères](https://radiopaedia.org/cases/56625/studies/63384?source_of=https%3A%2F%2Fradiopaedia.org%2Farticles%2Fureter){:target="_blank"}"
 

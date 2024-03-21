@@ -7,15 +7,14 @@
     * Ici vous trouvez ensuite les éléments sémiologiques importants
 
 !!! lumos ""
-    :fire: Notion fondamentale
+    :fire: Notion essentielle
     
 ??? question "[Quiz : cliquez ici, interprétez l'imagerie, puis affichez la réponse →](https://radiopaedia.org/cases/23526/studies/23629?lang=gb){:target="_blank"}"
     « Tout le monde se trompe, le génie comme le demeuré, et ce n'est pas l'erreur qui est dangereuse mais le fanatisme de celui qui croit qu'il ne se trompe pas. » (Éric-Emmanuel Schmitt)
 
-</br><p style="text-align: center">:dart: L'objectif est de réviser l'**EDN** du point de vue de la radiologie !</br></p>
+</br><p style="text-align: center">:dart: L'objectif est de réviser l'**EDN** du point de vue de la radiologie !</br></br></p>
 
-</br><p style="text-align: center">Avis et suggestions bienvenus :smile: <a href="mailto:lumosimago@gmail.com">lumosimago@gmail.com</a></p>
-<p style="text-align: center"><i>Alexandre Lefèvre, interne de radiologie à Lille</br></i></p>
+<p style="text-align: center"><i>Alexandre Lefèvre, interne de radiologie à Lille</br></i><a href="mailto:lumosimago@gmail.com">lumosimago@gmail.com</a></br></p>
 
 <figure markdown="span">
   [![Martingale](assets/V3.jpg){width="350"}](https://www.editions-ellipses.fr/accueil/15025-27870-imagerie-medicale-entrainement-2e-edition-9782340082618.html#/1-format_disponible-broche){:target="_blank"}
@@ -27,7 +26,7 @@
 ### Radiographie standard :radioactive:
 
 !!! imago "[Opacité pulmonaire acrobatique](https://radiopaedia.org/cases/ed29fb155a607e8bf1f49dd546584bdd/studies/148293?lang=gb){:target="_blank"}"
-    Une radiographie thoracique est réalisée autant que possible debout, en incidence postéro-antérieure (sinon élargissement de la silhouette cardiaque), et après avoir enlevé les bijoux et autre matériel responsable d'opacités (ici piercing au téton)
+    Une radiographie thoracique est réalisée autant que possible debout, en incidence postéro-antérieure (sinon élargissement de la silhouette cardiaque), et après avoir enlevé les bijoux et autre matériel responsable d'opacités (ici piercing au téton).
     !!! lumos ""
         :fire: Critères de qualité : champ d'acquisition complet, centrée, inspiration profonde
 
@@ -49,7 +48,7 @@
 
 #### Densités des structures
 
-Par définition, la densité de l'eau est de 0 UH :sweat_drops: et celle de l'air est de -1000 UH :cloud_tornado:.
+Par définition, la densité de l'eau est de 0 UH et celle de l'air est de -1000 UH.
 
 !!! imago "[Ascite cirrhotique et hématome intrapéritonéal](https://radiopaedia.org/cases/7c94398bb675d7965e8a5cddb401e1f7/studies/147956?lang=gb){:target="_blank"}"
     !!! lumos ""
