@@ -54,7 +54,7 @@ Par définition, la densité de l'eau est de 0 UH et celle de l'air est de -1000
     !!! lumos ""
         :fire: Le sang frais est spontanément hyperdense
 
-#### Fenêtrages de visualisation :window: 
+#### Fenêtrage de visualisation :window: 
 
 Le fenêtrage consiste à sélectionner un intervalle de densités (en Unités Hounsfield) et à l'étaler sur l'ensemble des niveaux de gris : les densités supérieures aux maximum de la fenêtre choisie sont affichées en blancs et les densités inférieures au minimum sont en noir.
 

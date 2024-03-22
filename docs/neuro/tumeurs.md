@@ -15,7 +15,7 @@
     * Pas de prise de contraste
 
 !!! imago "[Tumeur extra-axiale (méningiome)](https://radiopaedia.org/cases/174815/studies/140846?lang=us){:target="_blank"}"
-    * _IRM en séquences T1, FLAIR, T2, diffusion, T2^*, et T1 après injection_
+    * _IRM en séquences T1, FLAIR, T2, diffusion, T2*, et T1 après injection_
     * Masse paramédiane à **base d'implantation méningée** (voir coronal T2)
     * Effet de masse sur le parenchyme cérébral fronto-pariétal gauche
     * Lésion bien circonscrite avec rehaussement homogène
@@ -82,7 +82,7 @@ De nombreuses lésions cérébrales peuvent présenter un rehaussement périphé
 !!! lumos ""
     :fire: **MAGIC Dr** : Méta Abcès Glioblastome Infarctus Contusion Démyélinisation Radionécrose
 
-!!! imago "[Abcès à pyogènes](https://radiopaedia.org/cases/83713/play){:target="_blank"}"
+!!! imago "[Abcès à pyogènes](https://radiopaedia.org/cases/83713/studies/98859?lang=gb){:target="_blank"}"
     * _IRM en séquences T1, T2, FLAIR, T1 après inj., et diffusion_
     * Lésions intra-axiales frontales bilatérales, à parois épaisses rehaussées
     * **Restriction de la diffusion** (confirmée par l'hyposignal ADC)
