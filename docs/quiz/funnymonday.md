@@ -5,7 +5,7 @@
 ## Hémopathies :drop_of_blood:
 
 ??? question ":star:"
-    [Homme de 83 ans, masses paravertébrales découvertes sur une radiographie thoracique](https://radiopaedia.org/cases/41299/studies/44119?lang=gb){:target="_blank"}
+    [Homme de 83 ans, douleurs abdominales récidivantes](https://radiopaedia.org/cases/41299/studies/44119?lang=gb){:target="_blank"}
 
 ??? question ":star: :star: "
     [Homme de 20 ans, anémie chronique](https://radiopaedia.org/cases/36625/studies/38190?lang=gb){:target="_blank"}
