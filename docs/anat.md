@@ -2,7 +2,6 @@
 
 <p style="text-align: center">« Radiology is the art of finding answers in the shadows »</p>
 
-
 ## Tête et cou :brain:
 
 !!! imago "[Scanner cérébral](https://radiopaedia.org/cases/73395/studies/84157){:target="_blank"}"

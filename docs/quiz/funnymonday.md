@@ -1,6 +1,6 @@
 # :tada: Funny Monday :partying_face:
 
-<p style="text-align: center">« Mieux vaut pêcher par excès que par défaut »</p>
+<p style="text-align: center">« Il vaut mieux pêcher par excès que par défaut ! »</p>
 
 ## Hémopathies :drop_of_blood:
 
@@ -38,10 +38,25 @@
     [Fille de 15 mois, masse abdominale](https://radiopaedia.org/cases/9961/studies/10522){:target="_blank"}
 
 ??? question ":star: :star:"
-    [Homme de 40 ans, lombalgies chroniques, douleurs flanc et testicule gauches depuis 3 semaines](https://radiopaedia.org/cases/151931/studies/126020?lang=gb){:target="_blank"}
+    [Homme de 40 ans, lombalgies chroniques, douleurs flanc gauche depuis 3 semaines](https://radiopaedia.org/cases/151931/studies/126020?lang=gb){:target="_blank"}
 
 ??? question ":star: :star: :star:"
     [Homme de 70 ans, varicocèle droite](https://radiopaedia.org/cases/49173/studies/54277?lang=gb){:target="_blank"}
 
 ??? question ":star: :star: :star: :star:"
     [Homme de 30 ans, douleurs abdominales et altération de l'état général](https://radiopaedia.org/cases/72763/studies/83391?lang=gb){:target="_blank"}
+
+
+## The box :gift:
+
+??? question ":star:"
+    Quelle est la couleur complémentaire du bleu ? [réponse](https://image.jimcdn.com/app/cms/image/transf/none/path/s277021aa972bd28e/image/i63b58848d0fabbe6/version/1697385508/la-th%C3%A9orie-des-couleurs.png){:target="_blank"}
+
+??? question ":star: :star:"
+    [Connecter les 9 points en traçant 4 traits sans lever le stylo](https://www.permadi.com/fpcgi/9dots/index.php?sa=mkpage&framed=0&ga=new){:target="_blank"}
+
+??? question ":star: :star: :star:"
+    [Gagner contre l'autre équipe à un jeu de boules](https://doodles.google/doodle/celebrating-petanque/){:target="_blank"}
+
+??? question ":star: :star: :star: :star:"
+    [Problème des tours de Hanoï](https://permadi.com/activity/towers-of-hanoi/){:target="_blank"}

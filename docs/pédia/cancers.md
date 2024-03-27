@@ -12,12 +12,12 @@
 !!! imago "[Leucémie aiguë lymphoblastique](https://radiopaedia.org/cases/40019/studies/49531?referrer=%2Farticles%2Facute-lymphoblastic-leukaemia%23image_list_item_22760394){:target="_blank"}"
     * _Radiographies de face et de profil de la jambe gauche_
     * Ostéolyse mitée de la médullaire du tibia et de la fibula distale
-    * Appositions périostées autour de la diaphyse tibiale
+    * **Appositions périostées** autour de la diaphyse tibiale
 
 !!! imago "[Lymphome de Burkitt](https://radiopaedia.org/cases/177234/studies/142372?lang=gb){:target="_blank"}"
     * _Scanner après lavement, ingestion et injection de produit de contraste_
     * Important épaississement des parois de l'iléon distal
-    * Volumineuses adénomégalies notamment dans le hile hépatique
+    * Volumineuses **adénomégalies** notamment dans le hile hépatique
     !!! lumos ""
         :fire: Y penser devant une **masse abdominale d'évolution très rapide**
 

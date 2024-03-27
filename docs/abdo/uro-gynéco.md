@@ -23,7 +23,7 @@
 !!! imago "[Torsion ovarienne](){:target="_blank"}"
     * __ 
 
-!!! imago "[Rupture du kyste ovarien](){:target="_blank"}"
+!!! imago "[Rupture de kyste ovarien](){:target="_blank"}"
     * __ 
 
 !!! imago "[Hémorragie intra-kystique](){:target="_blank"}"
