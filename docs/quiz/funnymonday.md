@@ -1,6 +1,6 @@
 # :tada: Funny Monday :partying_face:
 
-<p style="text-align: center">« Il vaut mieux pêcher par excès que par défaut ! »</p>
+<p style="text-align: center">« Il vaut mieux pêcher par excès que par défaut »</p>
 
 ## Hémopathies :drop_of_blood:
 
@@ -50,13 +50,13 @@
 ## The box :gift:
 
 ??? question ":star:"
-    Quelle est la couleur complémentaire du bleu ? [réponse](https://image.jimcdn.com/app/cms/image/transf/none/path/s277021aa972bd28e/image/i63b58848d0fabbe6/version/1697385508/la-th%C3%A9orie-des-couleurs.png){:target="_blank"}
+    Quelle est la couleur complémentaire du bleu ?
 
 ??? question ":star: :star:"
-    [Connecter les 9 points en traçant 4 traits sans lever le stylo](https://www.permadi.com/fpcgi/9dots/index.php?sa=mkpage&framed=0&ga=new){:target="_blank"}
+    Connecter les 9 points en traçant 4 traits sans lever le stylo
 
 ??? question ":star: :star: :star:"
     [Gagner contre l'autre équipe à un jeu de boules](https://doodles.google/doodle/celebrating-petanque/){:target="_blank"}
 
 ??? question ":star: :star: :star: :star:"
-    [Problème des tours de Hanoï](https://permadi.com/activity/towers-of-hanoi/){:target="_blank"}
+    A 5 ans près, en quelle année est mort Napoléon ?

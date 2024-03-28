@@ -1,7 +1,7 @@
 # Troubles neuro-cognitifs sévères
 
-:material-arrow-right: Fiche LiSA : [confusion](https://livret.uness.fr/lisa/Confusion,_d%C3%A9mences._(voir_item_132)){:target="_blank"}, [démences](https://livret.uness.fr/lisa/Troubles_cognitifs_du_sujet_%C3%A2g%C3%A9._(voir_item_108)){:target="_blank"}, et [complications de l'alcoolisme](https://livret.uness.fr/lisa/Conna%C3%AEtre_les_complications_m%C3%A9dicales_g%C3%A9n%C3%A9rales_principales_de_la_consommation_d%E2%80%99alcool_OIC-076-12-A){:target="_blank"}.  
-:material-arrow-right: Collège de Neurologie : [confusion et démences](https://www.cen-neurologie.fr/fr/deuxieme-cycle/confusion-troubles-cognitifs-demence){:target="_blank"}, et [complications de l'alcoolisme](https://www.cen-neurologie.fr/fr/deuxieme-cycle/addiction-lalcool-complications-neurologiques-lalcoolisme){:target="_blank"}.
+:material-arrow-right: Fiche LiSA : [confusion](https://livret.uness.fr/lisa/Confusion,_d%C3%A9mences._(voir_item_132)){:target="_blank"}, [démences](https://livret.uness.fr/lisa/Troubles_cognitifs_du_sujet_%C3%A2g%C3%A9._(voir_item_108)){:target="_blank"} et [complications de l'alcoolisme](https://livret.uness.fr/lisa/Conna%C3%AEtre_les_complications_m%C3%A9dicales_g%C3%A9n%C3%A9rales_principales_de_la_consommation_d%E2%80%99alcool_OIC-076-12-A){:target="_blank"}  
+:material-arrow-right: Collège de Neurologie : [confusion et démences](https://www.cen-neurologie.fr/fr/deuxieme-cycle/confusion-troubles-cognitifs-demence){:target="_blank"} et [complications de l'alcoolisme](https://www.cen-neurologie.fr/fr/deuxieme-cycle/addiction-lalcool-complications-neurologiques-lalcoolisme){:target="_blank"}
 
 
 ## Confusion aigu :older_adult_tone1:

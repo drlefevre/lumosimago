@@ -1,6 +1,6 @@
 # Tumeurs génito-urinaires et gynécologiques
 
-:material-arrow-right: Fiches LiSA : [tumeurs reins](https://livret.uness.fr/lisa/Tumeurs_du_rein_de_l%E2%80%99adulte){:target="_blank"}, [vessie](https://livret.uness.fr/lisa/Tumeurs_v%C3%A9sicales){:target="_blank"}, [prostate](https://livret.uness.fr/lisa/Tumeurs_de_la_prostate){:target="_blank"}, [testicules](https://livret.uness.fr/lisa/Tumeurs_du_testicule){:target="_blank"}, [seins](https://livret.uness.fr/lisa/Tumeurs_du_sein){:target="_blank"}, [utérus](https://livret.uness.fr/lisa/Tumeurs_du_col_ut%C3%A9rin,_tumeur_du_corps_ut%C3%A9rin){:target="_blank"}, et [ovaires](https://livret.uness.fr/lisa/Tumeurs_de_l%E2%80%99ovaire){:target="_blank"}.
+:material-arrow-right: Fiches LiSA : [tumeurs reins](https://livret.uness.fr/lisa/Tumeurs_du_rein_de_l%E2%80%99adulte){:target="_blank"}, [vessie](https://livret.uness.fr/lisa/Tumeurs_v%C3%A9sicales){:target="_blank"}, [prostate](https://livret.uness.fr/lisa/Tumeurs_de_la_prostate){:target="_blank"}, [testicules](https://livret.uness.fr/lisa/Tumeurs_du_testicule){:target="_blank"}, [seins](https://livret.uness.fr/lisa/Tumeurs_du_sein){:target="_blank"}, [utérus](https://livret.uness.fr/lisa/Tumeurs_du_col_ut%C3%A9rin,_tumeur_du_corps_ut%C3%A9rin){:target="_blank"} et [ovaires](https://livret.uness.fr/lisa/Tumeurs_de_l%E2%80%99ovaire){:target="_blank"}
 
 ## Reins et vessie :custom-kidney:
 
@@ -28,7 +28,7 @@
     !!! lumos ""
         :fire: **Dépistage** par TR et PSA tous les 2-4 ans de 50 à 70 ans
 
-!!! imago "[Séminome](https://radiopaedia.org/cases/99886/studies/121735){:target="_blank"}"
+!!! imago "[Séminome testiculaire](https://radiopaedia.org/cases/99886/studies/121735){:target="_blank"}"
     * __
     !!! lumos ""
         :fire: 98% des tumeurs testiculaires sont **germinales** dont 60% de séminomes
@@ -36,24 +36,24 @@
 
 ## Femmes :female_sign:
 
-!!! imago "[Adénocarcinome mammaire](){:target="_blank"}"
-    * __
+!!! imago "[Adénocarcinome mammaire](https://radiopaedia.org/cases/185818/studies/147888){:target="_blank"}"
+    * _Mammographies du sein droit en incidences de face et oblique_
+    * Masse dans le quadrant supéro-externe **spiculée et rétractile**
     !!! lumos ""
         :fire: **Dépistage** par mammographie tous les 2 ans de 50 à 74 ans
 
-!!! imago "[Adénocarcinome utérin](){:target="_blank"}"
-    * __
+!!! imago "[Adénocarcinome de l'endomètre](https://radiopaedia.org/cases/53104/studies/59067){:target="_blank"}"
+    * _Echographie par voie transvaginale_
+    * Masse hyperéchogène au sein de l'utérus hypoéchogène
+    * Vaisseaux au doppler-couleur confirmant le caractère tissulaire
+    !!! lumos ""
+        :fire: Cancer gynécologique le plus fréquent
 
-!!! imago "[Cystadénocarcinome ovarien](){:target="_blank"}"
+!!! imago "[Cystadénocarcinome ovarien](https://radiopaedia.org/cases/86567/studies/102653?lang=gb#findings){:target="_blank"}"
     * __
 
 
 ## Quiz
-
-??? question "[Kyste rénal Bosniak IIF](){:target="_blank"}"
-    * __
-    * 
-    * :star:  :star:
 
 ??? question "[Hypertrophie bénigne de prostate](){:target="_blank"}"
     * __
