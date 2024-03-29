@@ -9,27 +9,34 @@
     * Masse rénale inférieure droite **hypervascularisée** (rehaussée au temps artériel)
     * Lavage du produit de contraste de la masse au temps excréteur
     !!! lumos ""
-        :fire: &#8532; des cancers du reins sont des CCC de **découverte fortuite**
+        :fire: ⅔ des cancers du reins sont des CCC de **découverte fortuite**
 
 !!! imago "[Angiomyolipome](https://radiopaedia.org/cases/88552/studies/105227){:target="_blank"}"
-    * __
+    * _Scanner sans et après injection au temps veineux dans les 3 plans_
+    * Lésion rénale polaire supérieure droite exophytique de densité graisseuse
     !!! lumos ""
-        :fire: Tumeur **bénigne**, comme l'oncocytome
+        :fire: Tumeur rénale **bénigne**, comme l'oncocytome
 
-!!! imago "[Carcinome urothélial](https://radiopaedia.org/cases/162780/studies/132580){:target="_blank"}"
-    * __
+!!! imago "[Carcinome urothélial](https://radiopaedia.org/cases/85674/studies/101455){:target="_blank"}"
+    * _Scanner après injection au temps artériel et excréteur dans les 3 plans_
+    * Masse intravésicale postérieure végétante 
     !!! lumos ""
         :fire: Représente **> 95%** des tumeurs vésicales
 
 ## Hommes :male_sign:
 
 !!! imago "[Adénocarcinome prostatique](https://radiopaedia.org/cases/77857/studies/90143){:target="_blank"}"
-    * __
+    * _IRM en séquences T2 dans les 3 plans et diffusion_
+    * Masse prostatique droite en hyposignal T2
+    * **Extension extraprostatique** venant au contact de la vésicule séminale
+    * Volumineuses adénomégalies iliaques bilatérales
+    * Métastase osseuse dans la branche ischio-pubienne droite
     !!! lumos ""
         :fire: **Dépistage** par TR et PSA tous les 2-4 ans de 50 à 70 ans
 
 !!! imago "[Séminome testiculaire](https://radiopaedia.org/cases/99886/studies/121735){:target="_blank"}"
-    * __
+    * _Echographie sans et avec Doppler couleur_
+    * Nodule testiculaire bilobé hypoéchogène bien limité et vascularisé
     !!! lumos ""
         :fire: 98% des tumeurs testiculaires sont **germinales** dont 60% de séminomes
 
@@ -49,18 +56,32 @@
     !!! lumos ""
         :fire: Cancer gynécologique le plus fréquent
 
-!!! imago "[Cystadénocarcinome ovarien](https://radiopaedia.org/cases/86567/studies/102653?lang=gb#findings){:target="_blank"}"
-    * __
+!!! imago "[Cystadénocarcinome ovarien](https://radiopaedia.org/cases/86567/studies/102653?lang=gb#images){:target="_blank"}"
+    * _Scanner après injection au temps veineux dans les 3 plans_
+    * Masse pelvienne en arrière de l'utérus (siège d'un myome calcifié)
+    * **Métastases** hépatique postéro-inférieure et splénique supéro-antérieure
+    * Nodules de **carcinose** péritonéale dans la gouttière pariéto-colique gauche
+    !!! lumos ""
+        :fire: ¾ des patientes sont diagnostiquées à un **stade avancé**
 
 
 ## Quiz
 
-??? question "[Hypertrophie bénigne de prostate](){:target="_blank"}"
-    * __
-    * 
-    * :star:  :star:
+??? question "[Homme de 75 ans, dysurie avec jet faible et sensation de vidange incomplète](https://radiopaedia.org/cases/82760/studies/97007){:target="_blank"}"
+    * _IRM en séquences T2 dans le 3 plans, diffusion et axial T1_
+    * Hypertrophie marquée du lobe médian de la prostate avec **protrusion intravésical**
+    * Epaississement des parois vésicales et petit diverticule latéral gauche
+    * :star: Hypertrophie bénigne de prostate :star:
 
-??? question "[Myome utérin](){:target="_blank"}"
-    * __
-    * 
-    * :star:  :star:
+??? question "[Femme de 45 ans, ménorragies](https://radiopaedia.org/cases/159288/studies/130549){:target="_blank"}"
+    * _IRM en séquences T2 et T1 dans les 3 plans_
+    * Lésion antéro-latérale gauche faisant protrusion dans la cavité utérine
+    * Contours bien limités et signal homogène
+    * :star: Myome utérin sous-muqueux :star:
+
+??? question "[Femme de 40 ans, bilan d'extension d'un cancer gastrique](https://radiopaedia.org/cases/63068/studies/71546?lang=gb){:target="_blank"}"
+    * _Scanner après ingestion et injection aux temps veineux et tardif_
+    * Epaississement diffus des parois gastriques plus marqué dans l'antre
+    * Adénomégalies en avant de la grande courbure de l'estomac
+    * Deux masses hétérogènes et ascite dans le pelvis
+    * :star: Métastases ovariennes (syndrome de Krukenberg) :star:
