@@ -63,8 +63,20 @@
   width: 2rem;
 }
 
-.martingale {
-  color: #0f99ee;
+.bleu {
+  color: #2aa4f0;
+}
+
+.rouge {
+  color: #ee0f0f;
+}
+
+.jaune {
+  color: #eeb60f;
+}
+
+.vert {
+  color: #2ac71c;
 }
 
 /* Customize navigation sidebar 

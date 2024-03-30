@@ -7,8 +7,8 @@ nav:
     - Détresse respiratoire: thorax/détresse.md
     - Douleurs aiguës: thorax/douleurs.md
     - Infections: thorax/infections.md
-    - PID: thorax/PID.md
     - Tumeurs: thorax/tumeurs.md
+    - PID: thorax/PID.md
   - Abdomen et pelvis: 
     - Syndrome occlusif: abdo/occlusion.md
     - Douleurs abdominales: abdo/douleurs.md

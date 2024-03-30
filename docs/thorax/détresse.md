@@ -4,7 +4,7 @@
 :material-arrow-right: [Collège de Pneumologie](https://cep.splf.fr/wp-content/uploads/2023/07/ITEM_359_DETRESSE_RESPIRATOIRE_2023.pdf){:target="_blank"}
 
 
-## Radiographie thoracique anormale :material-radiology-box-outline:
+## Radiographie thoracique anormale :material-radiology-box-outline:{.bleu}
 
 !!! imago "[Syndrome alvéolaire](){:target="_blank"}"
     * __
