@@ -44,7 +44,7 @@
 ## Femmes :female_sign:
 
 !!! imago "[Adénocarcinome mammaire](https://radiopaedia.org/cases/185818/studies/147888){:target="_blank"}"
-    * _Mammographies du sein droit en incidences de face et oblique_
+    * _Mammographies du sein droit en incidences de face et oblique externe_
     * Masse dans le quadrant supéro-externe **spiculée et rétractile**
     !!! lumos ""
         :fire: **Dépistage** par mammographie tous les 2 ans de 50 à 74 ans
@@ -78,6 +78,8 @@
     * Lésion antéro-latérale gauche faisant protrusion dans la cavité utérine
     * Contours bien limités et signal homogène
     * :star: Myome utérin sous-muqueux :star:
+    !!! lumos ""
+        :fire: Peut provoquer des avortements spontanés
 
 ??? question "[Femme de 40 ans, bilan d'extension d'un cancer gastrique](https://radiopaedia.org/cases/63068/studies/71546?lang=gb){:target="_blank"}"
     * _Scanner après ingestion et injection aux temps veineux et tardif_

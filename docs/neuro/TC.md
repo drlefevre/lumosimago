@@ -37,8 +37,12 @@
 !!! imago "[Fracture du rocher](){:target="_blank"}"
     * __
 
-!!! imago "[Fracture du plancher de l'orbite](){:target="_blank"}"
-    * __
+!!! imago "[Fracture du plancher de l'orbite](https://radiopaedia.org/cases/180670/studies/144502){:target="_blank"}"
+    * _Scanner orbitaire sans injection en fenêtre os et tissus mous_
+    * Fracture en trappe du plancher de l'orbite gauche
+    * **Incarcération du muscle** droit inférieur
+    !!! lumos ""
+        :fire: Fracture de l'**enfant** et de l'adulte jeune
 
 
 ## Traumatismes rachidiens :boom:
