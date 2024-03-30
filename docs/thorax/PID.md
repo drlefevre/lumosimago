@@ -81,6 +81,7 @@
     * _Scanner thoracique sans injection_
     * Nombreuses plaques pleurales partiellement calcifiées
     * Discrète infiltration pulmonaire sous-pleurale bibasale
+    * Atélectasie partielle basale gauche (« par enroulement »)
     * :star: Asbestose :star:
     !!! lumos ""
         :fire: Plaques pleurales = exposition à l'amiante il y a plus de 20 ans
