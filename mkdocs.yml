@@ -43,9 +43,6 @@ theme:
   logo: assets/logo maj.svg
   custom_dir: overrides/
 
-plugins:
-  - search
-
 markdown_extensions:
   - attr_list
   - md_in_html

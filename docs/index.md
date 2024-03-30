@@ -21,12 +21,12 @@
 </figure>
 
 
-## Modalités d'imagerie
+## Rappels sur les modalités d'imagerie
 
 ### Radiographie standard :radioactive:
 
 !!! imago "[Opacité pulmonaire acrobatique](https://radiopaedia.org/cases/ed29fb155a607e8bf1f49dd546584bdd/studies/148293?lang=gb){:target="_blank"}"
-    Une radiographie thoracique est réalisée autant que possible debout, en incidence postéro-antérieure (sinon élargissement de la silhouette cardiaque), et après avoir enlevé les bijoux et autre matériel responsable d'opacités (ici piercing au téton).
+    Une radiographie thoracique est réalisée autant que possible debout, en incidence postéro-antérieure (sinon élargissement de la silhouette cardiaque), et après avoir enlevé les bijoux et autre matériel responsable d'opacités (ici piercing au téton)
     !!! lumos ""
         :fire: Critères de qualité : champ d'acquisition complet, centrée, inspiration profonde
 
@@ -71,12 +71,12 @@ Le protocole d'acquisition est adapté en fonction du contexte : merci de le pr�
 
 !!! imago "[Uroscanner dans un contexte d'hématurie](https://radiopaedia.org/cases/186025/studies/148040){:target="_blank"}"
     * _Acquisition sans injection :_ calcifications aortiques et phlébolithes pelviens
-    * _Temps artériel (20-40s) :_ opacification des artères et des cortex rénaux
+    * _Temps artériel (10-40s) :_ opacification des artères et des cortex rénaux
     !!! lumos ""
         :fire: Rate physiologiquement « tigrée » (rehaussement hétérogène) au temps artériel
     * _Temps veineux (50-90s) :_ rehaussement homogène des organes pleins
     * _Temps excréteur (10 min) :_ opacification des voies urinaires   
-        :material-arrow-right: avez-vous remarqué les deux tumeurs dans l'uretère pelvien gauche ?
+        :material-arrow-right: deux tumeurs dans l'uretère pelvien gauche
 
 
 ### IRM :white_check_mark:
