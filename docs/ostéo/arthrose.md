@@ -1,6 +1,6 @@
 # Lésions dégénératives et inflammatoires
 
-:material-arrow-right: Fiches LiSA : [arthrose](https://livret.uness.fr/lisa/Arthrose){:target="_blank"}, [PR](https://livret.uness.fr/lisa/Polyarthrite_rhumato%C3%AFde){:target="_blank"}, [SpA](https://livret.uness.fr/lisa/Spondyloarthrite){:target="_blank"} et [arthropathies microcristallines](https://livret.uness.fr/lisa/Arthropathies_microcristallines){:target="_blank"}
+:material-arrow-right: Fiches **LiSA** : [arthrose](https://livret.uness.fr/lisa/Arthrose){:target="_blank"}, [PR](https://livret.uness.fr/lisa/Polyarthrite_rhumato%C3%AFde){:target="_blank"}, [SpA](https://livret.uness.fr/lisa/Spondyloarthrite){:target="_blank"} et [arthropathies microcristallines](https://livret.uness.fr/lisa/Arthropathies_microcristallines){:target="_blank"}
 
 
 ## Arthrose :snowflake:

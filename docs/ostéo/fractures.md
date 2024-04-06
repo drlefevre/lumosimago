@@ -1,6 +1,6 @@
 # Lésions osseuses traumatiques
 
-:material-arrow-right: Fiches LiSA : [fractures](https://livret.uness.fr/lisa/Fractures_fr%C3%A9quentes_de_l%E2%80%99adulte_et_du_sujet_%C3%A2g%C3%A9){:target="_blank"}, [ostéoporose](https://livret.uness.fr/lisa/Ost%C3%A9opathies_fragilisantes){:target="_blank"}, [lésions péri-articulaires](https://livret.uness.fr/lisa/L%C3%A9sions_p%C3%A9ri-articulaires_et_ligamentaires_du_genou,_de_la_cheville_et_de_l%E2%80%99%C3%A9paule){:target="_blank"} et [prothèses/ostéosynthèses](https://livret.uness.fr/lisa/Proth%C3%A8ses_et_ost%C3%A9osynth%C3%A8ses){:target="_blank"}
+:material-arrow-right: Fiches **LiSA** : [fractures](https://livret.uness.fr/lisa/Fractures_fr%C3%A9quentes_de_l%E2%80%99adulte_et_du_sujet_%C3%A2g%C3%A9){:target="_blank"}, [ostéoporose](https://livret.uness.fr/lisa/Ost%C3%A9opathies_fragilisantes){:target="_blank"}, [lésions péri-articulaires](https://livret.uness.fr/lisa/L%C3%A9sions_p%C3%A9ri-articulaires_et_ligamentaires_du_genou,_de_la_cheville_et_de_l%E2%80%99%C3%A9paule){:target="_blank"} et [prothèses/ostéosynthèses](https://livret.uness.fr/lisa/Proth%C3%A8ses_et_ost%C3%A9osynth%C3%A8ses){:target="_blank"}
 
 
 ## Fractures :bone:

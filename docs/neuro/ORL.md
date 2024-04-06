@@ -1,6 +1,6 @@
 # Pathologies ORL et ophtalmologiques
 
-:material-arrow-right: Fiche LiSA : [glandes salivaires](https://livret.uness.fr/lisa/Pathologie_des_glandes_salivaires){:target="_blank"}, [vertige](https://livret.uness.fr/lisa/Vertige){:target="_blank"}, [surdité](https://livret.uness.fr/lisa/Alt%C3%A9ration_de_la_fonction_auditive){:target="_blank"}, [dysphonie](https://livret.uness.fr/lisa/Trouble_aigu_de_la_parole._Dysphonie){:target="_blank"}, [PFP](https://livret.uness.fr/lisa/Paralysie_faciale){:target="_blank"}, [diplopie](https://livret.uness.fr/lisa/Diplopie){:target="_blank"} et [hyperthyroïdie](https://livret.uness.fr/lisa/Hyperthyro%C3%AFdie){:target="_blank"}
+:material-arrow-right: Fiche **LiSA** : [glandes salivaires](https://livret.uness.fr/lisa/Pathologie_des_glandes_salivaires){:target="_blank"}, [vertige](https://livret.uness.fr/lisa/Vertige){:target="_blank"}, [surdité](https://livret.uness.fr/lisa/Alt%C3%A9ration_de_la_fonction_auditive){:target="_blank"}, [dysphonie](https://livret.uness.fr/lisa/Trouble_aigu_de_la_parole._Dysphonie){:target="_blank"}, [PFP](https://livret.uness.fr/lisa/Paralysie_faciale){:target="_blank"}, [diplopie](https://livret.uness.fr/lisa/Diplopie){:target="_blank"} et [hyperthyroïdie](https://livret.uness.fr/lisa/Hyperthyro%C3%AFdie){:target="_blank"}
 
 
 ## Glandes salivaires :sweat_drops:

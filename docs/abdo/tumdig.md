@@ -1,6 +1,6 @@
 # Tumeurs du système digestif
 
-:material-arrow-right: Fiches LiSA : [tumeurs colo-rectales](https://livret.uness.fr/lisa/Tumeurs_du_colon_et_du_rectum){:target="_blank"}, [stomacales](https://livret.uness.fr/lisa/Tumeurs_de_l%E2%80%99estomac){:target="_blank"}, [œsophagiennes](https://livret.uness.fr/lisa/Tumeurs_de_l%E2%80%99%C5%93sophage){:target="_blank"}, [hépatiques](https://livret.uness.fr/lisa/Tumeurs_du_foie,_primitives_et_secondaires){:target="_blank"} et [pancréatiques](https://livret.uness.fr/lisa/Tumeurs_du_pancr%C3%A9as){:target="_blank"}
+:material-arrow-right: Fiches **LiSA** : [côlon](https://livret.uness.fr/lisa/Tumeurs_du_colon_et_du_rectum){:target="_blank"}, [estomac](https://livret.uness.fr/lisa/Tumeurs_de_l%E2%80%99estomac){:target="_blank"}, [œsophage](https://livret.uness.fr/lisa/Tumeurs_de_l%E2%80%99%C5%93sophage){:target="_blank"}, [foie](https://livret.uness.fr/lisa/Tumeurs_du_foie,_primitives_et_secondaires){:target="_blank"} et [pancréas](https://livret.uness.fr/lisa/Tumeurs_du_pancr%C3%A9as){:target="_blank"}
 
 
 ## Tube digestif :custom-stomach:

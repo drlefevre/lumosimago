@@ -1,6 +1,6 @@
 # Douleurs lombaires et gynécologiques
 
-:material-arrow-right: Fiches LiSA : [lithiase urinaire](https://livret.uness.fr/lisa/Lithiase_urinaire){:target="_blank"}, [infections urinaires](https://livret.uness.fr/lisa/Infections_urinaires_de_l%E2%80%99enfant_et_de_l%E2%80%99adulte){:target="_blank"}, [GEU](https://livret.uness.fr/lisa/Grossesse_extra-ut%C3%A9rine){:target="_blank"} et [kystes ovariens](https://livret.uness.fr/lisa/Tum%C3%A9faction_pelvienne_chez_la_femme){:target="_blank"}
+:material-arrow-right: Fiches **LiSA** : [lithiase urinaire](https://livret.uness.fr/lisa/Lithiase_urinaire){:target="_blank"}, [infections urinaires](https://livret.uness.fr/lisa/Infections_urinaires_de_l%E2%80%99enfant_et_de_l%E2%80%99adulte){:target="_blank"}, [GEU](https://livret.uness.fr/lisa/Grossesse_extra-ut%C3%A9rine){:target="_blank"} et [kystes ovariens](https://livret.uness.fr/lisa/Tum%C3%A9faction_pelvienne_chez_la_femme){:target="_blank"}  
 
 
 ## Douleurs lombaires :custom-kidney:

@@ -1,7 +1,7 @@
 # Cancers de l'enfant 
 
-:material-arrow-right: [Fiche LiSA](https://livret.uness.fr/lisa/Cancer_de_l%E2%80%99enfant_:_particularit%C3%A9s_%C3%A9pid%C3%A9miologiques,_diagnostiques_et_th%C3%A9rapeutiques){:target="_blank"}  
-:material-arrow-right: [Collège de Pédiatrie](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/hematologie-cancerologie/cancers-lenfant){:target="_blank"}
+:material-arrow-right: [Fiche **LiSA**](https://livret.uness.fr/lisa/Cancer_de_l%E2%80%99enfant_:_particularit%C3%A9s_%C3%A9pid%C3%A9miologiques,_diagnostiques_et_th%C3%A9rapeutiques){:target="_blank"}  
+:material-arrow-right: [Collège de **Pédiatrie**](https://www.pedia-univ.fr/deuxieme-cycle/referentiel/hematologie-cancerologie/cancers-lenfant){:target="_blank"}  
 
 
 ## Hémopathies :drop_of_blood:

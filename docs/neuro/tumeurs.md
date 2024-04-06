@@ -1,7 +1,7 @@
 # Tumeurs intracrâniennes
 
-:material-arrow-right: [Fiche LiSA](https://livret.uness.fr/lisa/Tumeurs_intracr%C3%A2niennes){:target="_blank"}   
-:material-arrow-right: [Collège de Neurologie](https://www.cen-neurologie.fr/fr/deuxieme-cycle/tumeurs-intracraniennes){:target="_blank"}  
+:material-arrow-right: [Fiche **LiSA**](https://livret.uness.fr/lisa/Tumeurs_intracr%C3%A2niennes){:target="_blank"}   
+:material-arrow-right: [Collège de **Neurologie**](https://www.cen-neurologie.fr/fr/deuxieme-cycle/tumeurs-intracraniennes){:target="_blank"}  
 
 ## Topographie :brain:
 
