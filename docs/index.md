@@ -10,7 +10,7 @@
     :fire: Notion essentielle
     
 ??? question "[Quiz : cliquez ici, interprétez l'imagerie, puis affichez la réponse →](https://radiopaedia.org/cases/23526/studies/23629?lang=gb){:target="_blank"}"
-    « Tout le monde se trompe, le génie comme le demeuré, et ce n'est pas l'erreur qui est dangereuse mais le fanatisme de celui qui croit qu'il ne se trompe pas. » (Éric-Emmanuel Schmitt)
+    « Tout le monde se trompe, le génie comme le demeuré, et ce n'est pas l'erreur qui est dangereuse mais le fanatisme de celui qui croit qu'il ne se trompe pas. » _Éric-Emmanuel Schmitt_
 
 </br><p style="text-align: center">:dart: L'objectif est de réviser l'**EDN** du point de vue de la radiologie !</br></br></p>
 
@@ -76,7 +76,7 @@ Le protocole d'acquisition est adapté en fonction du contexte : merci de le pr�
         :fire: Rate physiologiquement « tigrée » (rehaussement hétérogène) au temps artériel
     * _Temps veineux (50-90s) :_ rehaussement homogène des organes pleins
     * _Temps excréteur (10 min) :_ opacification des voies urinaires   
-        :material-arrow-right: deux tumeurs dans l'uretère pelvien gauche
+        &nbsp;&nbsp;&nbsp;&nbsp;:material-arrow-right: indispensable pour voir les 2 tumeurs dans l'uretère pelvien gauche
 
 
 ### IRM :white_check_mark:

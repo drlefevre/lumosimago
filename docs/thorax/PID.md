@@ -1,7 +1,7 @@
 # Pneumopathies interstitielles diffuses
 
-:material-arrow-right: [Fiche LiSA](https://livret.uness.fr/lisa/Pneumopathie_interstitielle_diffuse){:target="_blank"}   
-:material-arrow-right: [Collège de Pneumologie](https://cep.splf.fr/wp-content/uploads/2023/07/ITEM_210_PNEUMOPATHIES_INTERSTITIELLES_DIFFUSES_2023.pdf){:target="_blank"}
+:material-arrow-right: [Fiche **LiSA**](https://livret.uness.fr/lisa/Pneumopathie_interstitielle_diffuse){:target="_blank"}   
+:material-arrow-right: [Collège de **Pneumologie**](https://cep.splf.fr/wp-content/uploads/2023/07/ITEM_210_PNEUMOPATHIES_INTERSTITIELLES_DIFFUSES_2023.pdf){:target="_blank"}
 
 
 ## Hyperdensités étendues :material-yin-yang:{.bleu}
@@ -72,9 +72,9 @@
 
 ??? question "[Homme de 45 ans, dyspnée, ouvrier en fonderie](https://radiopaedia.org/cases/75446/studies/86677){:target="_blank"}"
     * _Scanner thoracique injecté au temps veineux_
-    * Innombrables nodules et micronodules calcifiés prédominants dans les lobes sup.
+    * Innombrables nodules et micronodules calcifiés
     * Confluence en masses pseudo-tumorales dans les apex
-    * Ganglions médiastino-hilaires péricentimétriques **calcifiés** « en coquille d'œuf »
+    * Ganglions médiastinaux calcifiés « en coquille d'œuf »
     * :star: Silicose :star:
 
 ??? question "[Homme de 55 ans, dyspnée d'effort, travaille dans le BTP](https://radiopaedia.org/cases/45002/studies/48961){:target="_blank"}"

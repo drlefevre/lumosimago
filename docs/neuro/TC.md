@@ -10,7 +10,7 @@
 !!! imago "[Hématome extra-dural](){:target="_blank"}"
     * __
 
-!!! imago "[Hématome sous-dural](){:target="_blank"}"
+!!! imago "[Hématome sous-dural aiguë](https://radiopaedia.org/play/70273/entry/1312184/case/180386/studies/144328?lang=gb){:target="_blank"}"
     * __
 
 !!! imago "[Contusions œdémato-hémorragiques](){:target="_blank"}"

@@ -1,6 +1,11 @@
 # :tada: Funny Monday :partying_face:
 
-<p style="text-align: center">« Il vaut mieux pêcher par excès que par défaut »</p>
+<p style="text-align: center">« Trouvons la cause, nous trouverons le remède » <i>Hippocrate (IV<sup>ème</sup> s. av. J-C)</i></p>
+
+<p style="text-align: center">« Pour diagnostiquer, il faut observer et raisonner » <i>Claude Galien (II<sup>ème</sup> siècle)</i></p>
+
+<p style="text-align: center">« Radiology is the art of finding answers in the shadows »</p>
+
 
 ## Hémopathies :drop_of_blood:
 

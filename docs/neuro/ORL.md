@@ -49,13 +49,13 @@
     * __
     * 
     * :star:  :star:
-    
-??? question "[PFP, découverte de SEP](){:target="_blank"}"
-    * __
-    * 
-    * :star:  :star:
 
 ??? question "[Paralysie du III révélant un anévrysme postéro-carotidien](){:target="_blank"}"
     * __
     * 
     * :star:  :star:
+
+??? question "[Homme de 40 ans, artérations de la vue de l'œil gauche et douleurs](https://radiopaedia.org/cases/160621/studies/131362?lang=gb){:target="_blank"}"
+    * __
+    *
+    * :star: Névrite optique rétrobulbaire :star:
