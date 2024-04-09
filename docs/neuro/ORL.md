@@ -47,7 +47,7 @@
 ??? question "[Angine](){:target="_blank"}"
     * __
     *
-    * :star: Phlegmon amygdalien :star:
+    * :star: Phlegmon péri-amygdalien :star:
 
 ??? question "[Dysphonie](){:target="_blank"}"
     * __
