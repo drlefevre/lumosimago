@@ -1,6 +1,6 @@
 # Radioanatomie
 
-<p style="text-align: center">« [L'homme] est la plus parfaite de toutes les créatures » <i>Vésale (XVI<sup>ème</sup> siècle)</i></p>
+<p style="text-align: center">« L'homme est la plus parfaite de toutes les créatures » <i>Vésale (XVI<sup>ème</sup> siècle)</i></p>
 
 ## Tête et cou :brain:
 

@@ -16,11 +16,11 @@ nav:
     - Tumeurs digestives: abdo/tumdig.md
     - Tumeurs uro-gynéco: abdo/tumurogyn.md
   - Neurologie et ORL: 
-    - Urgences: neuro/urgences.md
-    - Traumatisme: neuro/TC.md
+    - Troubles neurologiques: neuro/urgences.md
+    - Traumatisme crânien: neuro/TC.md
     - Confusion/démences: neuro/démences.md
     - ORL et ophtalmologie: neuro/ORL.md
-    - Tumeurs: neuro/tumeurs.md
+    - Tumeurs cérébrales: neuro/tumeurs.md
   - Ostéo et hémato: 
     - Traumatique: ostéo/fractures.md
     - Arthrose/arthrite: ostéo/arthrose.md
@@ -29,8 +29,8 @@ nav:
     - Urgences du nourrisson: pédia/urgnourrisson.md
     - Urgences de l'enfant: pédia/urgenfant.md
     - Fractures et boiterie: pédia/fractures.md
-    - Cancers: pédia/cancers.md
     - Maladies génétiques: pédia/génétique.md
+    - Cancers: pédia/cancers.md
   - Quiz: quiz/funnymonday.md
 
 theme:

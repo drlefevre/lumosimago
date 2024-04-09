@@ -15,8 +15,7 @@
     * __
 
 
-
-## Angles ponto-cérébelleux :fontawesome-solid-person-cane:{.martingale}
+## Angles ponto-cérébelleux :fontawesome-solid-person-cane:{.marron}
 
 !!! imago "[Schwannome vestibulaire](){:target="_blank"}"
     * __
@@ -45,17 +44,22 @@
 
 ## Quiz
 
-??? question "[Dysphonie, cancer du larynx](){:target="_blank"}"
+??? question "[Angine](){:target="_blank"}"
+    * __
+    *
+    * :star: Phlegmon amygdalien :star:
+
+??? question "[Dysphonie](){:target="_blank"}"
     * __
     * 
-    * :star:  :star:
+    * :star: Cancer du larynx :star:
 
-??? question "[Paralysie du III révélant un anévrysme postéro-carotidien](){:target="_blank"}"
+??? question "[Paralysie du III](){:target="_blank"}"
     * __
     * 
-    * :star:  :star:
+    * :star: Anévrysme postéro-carotidien :star:
 
-??? question "[Homme de 40 ans, artérations de la vue de l'œil gauche et douleurs](https://radiopaedia.org/cases/160621/studies/131362?lang=gb){:target="_blank"}"
+??? question "[Homme de 40 ans, artération de la vue et douleurs orbitaires gauches](https://radiopaedia.org/cases/160621/studies/131362?lang=gb){:target="_blank"}"
     * __
     *
     * :star: Névrite optique rétrobulbaire :star:

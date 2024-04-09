@@ -4,6 +4,8 @@
 
 <p style="text-align: center">« Pour diagnostiquer, il faut observer et raisonner » <i>Claude Galien (II<sup>ème</sup> siècle)</i></p>
 
+<p style="text-align: center">« Un médecin ignorant est l'aide de camp de la mort » <i>Avicenne (XI<sup>ème</sup> siècle)</i></p>
+
 <p style="text-align: center">« Radiology is the art of finding answers in the shadows »</p>
 
 
