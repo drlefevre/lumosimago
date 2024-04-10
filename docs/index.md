@@ -78,6 +78,10 @@ Le protocole d'acquisition est adapté en fonction du contexte : merci de le pr�
     * _Temps excréteur (10 min) :_ opacification des voies urinaires   
         &nbsp;&nbsp;&nbsp;&nbsp;:material-arrow-right: indispensable pour voir les 2 tumeurs dans l'uretère pelvien gauche
 
+#### MIP et minIP
+
+[Ce diaporama](https://cerf.radiologie.fr/sites/cerf.radiologie.fr/files/files/enseignement/pdf/07AD%20Post-traitement%20en%20tomodensitom%C3%A9trie.pdf){:target="_blank"} détaille le post-traitement en tomodensitométrie.
+
 
 ### IRM :white_check_mark:
 
