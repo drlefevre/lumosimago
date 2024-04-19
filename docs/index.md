@@ -67,7 +67,7 @@ Le fenêtrage consiste à sélectionner un intervalle de densités (en Unités H
 
 #### Injection de produit de contraste :syringe:
 
-Le protocole d'acquisition est adapté en fonction du contexte : merci de le préciser...
+Le protocole d'acquisition est adapté en fonction du contexte : merci de le préciser !
 
 !!! imago "[Uroscanner dans un contexte d'hématurie](https://radiopaedia.org/cases/186025/studies/148040){:target="_blank"}"
     * _Acquisition sans injection :_ calcifications aortiques et phlébolithes pelviens
@@ -78,9 +78,9 @@ Le protocole d'acquisition est adapté en fonction du contexte : merci de le pr�
     * _Temps excréteur (10 min) :_ opacification des voies urinaires   
         &nbsp;&nbsp;&nbsp;&nbsp;:material-arrow-right: indispensable pour voir les 2 tumeurs dans l'uretère pelvien gauche
 
-#### MIP et minIP
+#### Post-traitement :computer:
 
-[Ce diaporama](https://cerf.radiologie.fr/sites/cerf.radiologie.fr/files/files/enseignement/pdf/07AD%20Post-traitement%20en%20tomodensitom%C3%A9trie.pdf){:target="_blank"} détaille le post-traitement en tomodensitométrie.
+[Ce diaporama](https://cerf.radiologie.fr/sites/cerf.radiologie.fr/files/files/enseignement/pdf/07AD%20Post-traitement%20en%20tomodensitom%C3%A9trie.pdf){:target="_blank"} détaille les outils de post-traitement, notamment le **MIP**.
 
 
 ### IRM :white_check_mark:

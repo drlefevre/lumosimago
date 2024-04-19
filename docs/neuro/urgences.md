@@ -77,10 +77,11 @@
 ??? question "[Homme de 75 ans, aphasie brutale à language réduit](https://radiopaedia.org/cases/178057/studies/142941){:target="_blank"}"
     * _Scanner cérébral sans injection_
     * Dédifférenciation substance blanche / substance grise fronto-insulaire gauche
-    * :star: AVC ischémique insulaire gauche :star:
+    * :star: AVC ischémique aigu insulaire gauche :star:
     * Pour mieux visualiser l'anomalie : [TDM à J1 avec lésion constituée](https://radiopaedia.org/cases/178057/studies/142942?lang=gb){:target="_blank"}
 
-??? question "[Epilepsie révélant une séquelle d'hémorragie lobaire sur MAV](https://radiopaedia.org/cases/179011/studies/143551){:target="_blank"}"
-    * __
-    *
-    * :star: Séquelle d'hématome lobaire au contact d'une malformation artério-veineuse :star:
+??? question "[Homme de 30 ans, épilepsie](https://radiopaedia.org/cases/179011/studies/143551){:target="_blank"}"
+    * _IRM en séquences T2, FLAIR, diffusoin, ARM veineuse, T2* et TOF_
+    * Cavité liquidienne frontale droite avec liseré periphérique en hyposignal T2*
+    * **Malformation artério-veineuse** au contact (cf. TOF coronal en MIP)
+    * :star: Séquelle d'hématome lobaire provoqué par une maformation artério-veineuse :star:
