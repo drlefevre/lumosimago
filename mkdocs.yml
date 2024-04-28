@@ -46,10 +46,8 @@ theme:
 markdown_extensions:
   - attr_list
   - md_in_html
-  - footnotes
   - admonition
   - pymdownx.details
-  - pymdownx.caret
   - toc:
       toc_depth: 3
   - pymdownx.emoji:
