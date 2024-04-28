@@ -8,29 +8,47 @@
 ## Hémorragies intrâcraniennes :drop_of_blood:
 
 !!! imago "[Hématome extra-dural](https://radiopaedia.org/cases/163311/studies/132998){:target="_blank"}"
-    * __
+    * _Scanner cérébral sans injection_
+    * Hyperdensité extra-axiale biconvexe pariéto-temporale gauche
+    * Important effet de masse avec engagement sous-falcoriel et temporal interne
+    * Trop bonne visibilité des cornes temporales des ventricules : début d'hydrocéphalie
+    !!! lumos ""
+        :fire: [Engagement](https://radiopaedia.org/cases/188509/studies/149894){:target="_blank"} sous-falcoriel => **ischémie de l'artère cérébrale ant.** et hydrocéphalie  
+        :fire: Engagement temporal interne => **compression du nerf oculomoteur III** (mydriase)
+    * Fracture pariéto-temporale gauche, avec minime déplacement des pièces osseuses
 
 !!! imago "[Hématome sous-dural aigu](https://radiopaedia.org/play/70273/entry/1312184/case/180386/studies/144328?lang=gb){:target="_blank"}"
-    * __
+    * _Scanner cérébral sans injection_
+    * Hyperdensité extra-axiale moulant la convexité droite
+    * Effet de masse avec déviation de la ligne médiane de 7 mm 
+    * Fracture du condyle mandibulaire droit
 
 !!! imago "[Contusions œdémato-hémorragiques](https://radiopaedia.org/cases/18371/studies/18214){:target="_blank"}"
-    * __
-
-!!! imago "[Engagements sous-falcoriel et temporal interne](https://radiopaedia.org/cases/32383/studies/33331){:target="_blank"}"
-    * __
+    * _Scanner cérébral sans injection_
+    * Pétéchies hémorragiques parenchymateuses frontales et temporales droites
+    * Hématome extra-crânien et fracture occipitaux gauches témoignant de l'impact
+    !!! lumos ""
+        :fire: « **Coup** » occipital gauche et lésions antérieures droites de « **[contre-coup](https://radiopaedia.org/cases/55561/studies/62049){:target="_blank"}** »
 
 
 ## Fractures crânio-faciales :bone:
 
-!!! imago "[Le Fort II](https://radiopaedia.org/cases/76991/studies/88930){:target="_blank"}"
-    * __
+!!! imago "[Fracture de Le Fort II](https://radiopaedia.org/cases/76991/studies/88930){:target="_blank"}"
+    * _Scanner cérébral sans injection avec reconstruction volumique_
+    * Fracture bifocale de la symphyse mandibulaire et du condyle droit
+    * Fractures comminutives des processus ptérygoïdiens
+    * Fractures des os maxillaires étendues aux planchers des orbites
+    * Hémosinus bilatéral, emphysème sous-cutanée facial, pas de lésion intracrânienne
+    !!! lumos ""
+        :fire: Fracture de **[Le Fort](https://radiopaedia.org/cases/158149/studies/129802){:target="_blank"} ssi atteinte des apophyses ptérygoïdes**
 
 !!! imago "[Fracture longitudinale du rocher](https://radiopaedia.org/cases/56376/studies/63034){:target="_blank"}"
-    * __
-    * 
+    * _Scanner des rochers_
+    * Fracture longitudinale du rocher gauche
     * [Disjonction incudo-malléaire](https://radiopaedia.org/cases/56376/studies/63379?lang=gb){:target="_blank"}
+    * Hémotympan et pneumencéphalie
     !!! lumos ""
-        :fire:
+        :fire: 80% des fractures du rocher sont [longitudinales](https://radiopaedia.org/cases/12980/studies/13071){:target="_blank"}
 
 !!! imago "[Fracture du plancher de l'orbite](https://radiopaedia.org/cases/180670/studies/144502){:target="_blank"}"
     * _Scanner orbitaire sans injection en fenêtre os et tissus mous_
@@ -42,12 +60,15 @@
 
 ## Traumatismes rachidiens :boom:
 
-!!! imago "[Fracture C7-T1 en flexion et distraction postérieur](https://radiopaedia.org/cases/76540/studies/88296){:target="_blank"}"
-    * __
+!!! imago "[Fracture vertébrale cervico-thoracique](https://radiopaedia.org/cases/76540/studies/88296){:target="_blank"}"
+    * _Scanner du rachis cervical après injection au temps artériel_
+    * Fracture C7-T1 en flexion et distraction postérieur
+    * Antélisthésis marqué de C7 avec luxation des articulations postérieures
+    * Rétrécissement du canal rachidien avec probable **compression médullaire**
     !!! lumos ""
-        :fire: Les fractures rachidiennes en distraction et en rotation sont **instables**
+        :fire: Les fractures rachidiennes en distraction ou en rotation sont **instables**  
 
-!!! imago "[Fracture responsable d'une compression médullaire](https://radiopaedia.org/cases/83505/studies/98607){:target="_blank"}"
+!!! imago "[Fracture vertébrale thoracique basse](https://radiopaedia.org/cases/83505/studies/98607){:target="_blank"}"
     * _IRM en séquence T2 sagittal et axial centrée sur la fracture_
     * Burst fracture de T12 avec bombement du mur postérieur comprimant la moelle
     * Hypersignal T2 centromédullaire en regard de la fracture témoignant d'une **contusion**
@@ -55,12 +76,14 @@
 
 ## Quiz
 
-??? question "[Traumatisme crânien](https://radiopaedia.org/cases/184978/studies/147322){:target="_blank"}"
+??? question "[Femme de 65 ans, bilan d'une 1<sup>ère</sup> crise épileptique généralisée tonico-clonique](https://radiopaedia.org/cases/184978/studies/147322){:target="_blank"}"
     * __
     * :star: Lésions hémorragiques intracrâniennes et fracture longitudinale du rocher droit :star:
 
-??? question "[Dossier PACS fracture frontale avec bulle de pneumencéphalie](){:target="_blank"}"
+??? question "[Fille de 12 ans, chute responsable d'une plaie frontale gauche](https://radiopaedia.org/cases/4f935a1e0b3c97bb210df8ab6bf6309a/studies/149888?lang=gb){:target="_blank"}"
     * __
+    * :star: Fracture frontale gauche sans lésion cérébrale :star:
 
-??? question "[Œdème cérébral diffus](https://radiopaedia.org/cases/75922/studies/87353){:target="_blank"}"
+??? question "[Homme de 20 ans, mydriase après récupération d'un arrêt cardiaque](https://radiopaedia.org/cases/75922/studies/87353){:target="_blank"}"
     * __
+    * :star: Œdème cérébral diffus :star:

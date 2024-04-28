@@ -1,6 +1,6 @@
 # Radioanatomie
 
-<p style="text-align: center">« L'homme est la plus parfaite de toutes les créatures » <i>Vésale (XVI<sup>ème</sup> siècle)</i></p>
+<p style="text-align: center">« L'homme est la plus parfaite de toutes les créatures » <i>André Vésale (XVI<sup>ème</sup> siècle)</i></p>
 
 ## Tête et cou :brain:
 
@@ -13,6 +13,8 @@
         :fire: [Vaisseaux du cou, sinus veineux et polygone de Willis](https://radiopaedia.org/cases/42608/studies/45749){:target="_blank"}
 
 !!! imago "[Scanner cervical](https://radiopaedia.org/cases/74853/studies/85868){:target="_blank"}"
+
+!!! imago "[Scanner du rocher](https://radiopaedia.org/cases/37030/studies/38707){:target="_blank"}"
 
 
 ## Thorax :lungs:
