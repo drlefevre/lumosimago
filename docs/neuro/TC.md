@@ -13,7 +13,7 @@
     * Important effet de masse avec engagement sous-falcoriel et temporal interne
     * Trop bonne visibilité des cornes temporales des ventricules : début d'hydrocéphalie
     !!! lumos ""
-        :fire: [Engagement](https://radiopaedia.org/cases/188509/studies/149894){:target="_blank"} sous-falcoriel => **ischémie de l'artère cérébrale ant.** et hydrocéphalie  
+        :fire: [Engagement](https://radiopaedia.org/cases/5209c58806c0f6a7a7ddc46bb0e78173/studies/149894?lang=us){:target="_blank"} sous-falcoriel => **ischémie de l'artère cérébrale ant.** et hydrocéphalie  
         :fire: Engagement temporal interne => **compression du nerf oculomoteur III** (mydriase)
     * Fracture pariéto-temporale gauche, avec minime déplacement des pièces osseuses
 
