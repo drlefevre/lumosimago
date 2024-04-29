@@ -1,7 +1,7 @@
 # Traumatisme crânio-facial et du rachis
 
 :material-arrow-right: Fiche **LiSA** : [polytraumatisé](https://livret.uness.fr/lisa/Prise_en_charge_imm%C3%A9diate_pr%C3%A9-hospitali%C3%A8re_et_%C3%A0_l%E2%80%99arriv%C3%A9e_%C3%A0_l%E2%80%99h%C3%B4pital,_%C3%A9valuation_des_complications_chez_:_un_br%C3%BBl%C3%A9,_un_polytraumatis%C3%A9,_un_traumatis%C3%A9_thoracique,_un_traumatis%C3%A9_abdominal,_un_traumatis%C3%A9_des_membres_et/ou_du_...){:target="_blank"} et [traumatisme crânio-facial](https://livret.uness.fr/lisa/Orientation_diagnostique_et_conduite_%C3%A0_tenir_devant_un_traumatisme_cr%C3%A2nio-facial_et_oculaire){:target="_blank"}  
-:material-arrow-right: Collège de **Neurologie** : [engagements cérébraux](https://www.cen-neurologie.fr/fr/deuxieme-cycle/comas-non-traumatiques-ladulte){:target="_blank"}  
+:material-arrow-right: Collège de **Neurologie** : [engagements cérébraux](https://www.cen-neurologie.fr/fr/deuxieme-cycle/comas-non-traumatiques-ladulte#vi-identifier-les-situations-d-urgence-extr-me-d-un-coma-chez-l-adulte){:target="_blank"}  
 :material-arrow-right: Collège de **Neurochirurgie** : [traumatisme crânien](https://campus.neurochirurgie.fr/article1785.html){:target="_blank"} et [traumatisme rachidien](https://campus.neurochirurgie.fr/article1714.html){:target="_blank"}
 
 
@@ -77,13 +77,16 @@
 ## Quiz
 
 ??? question "[Femme de 65 ans, bilan d'une 1<sup>ère</sup> crise épileptique généralisée tonico-clonique](https://radiopaedia.org/cases/184978/studies/147322){:target="_blank"}"
-    * __
-    * :star: Lésions hémorragiques intracrâniennes et fracture longitudinale du rocher droit :star:
+    * _Scanner cérébral sans injection_
+    * **Hématome extra-dural** occipital droit
+    * **Hématome sous-dural** de la partie droite de la tente du cervelet
+    * **Contusions œdémato-hémorragiques** et HSA fronto-temporales droites
+    * Comblement partiel de l'oreille moyenne et des cellules mastoïdiennes droites
+    * :star: Lésions hémorragiques intracrâniennes et **fracture longitudinale du rocher** droit :star:
 
-??? question "[Fille de 12 ans, chute responsable d'une plaie frontale gauche](https://radiopaedia.org/cases/4f935a1e0b3c97bb210df8ab6bf6309a/studies/149888?lang=gb){:target="_blank"}"
-    * __
+??? question "[Fille de 12 ans, chute avec traumatisme crânien](https://radiopaedia.org/cases/4f935a1e0b3c97bb210df8ab6bf6309a/studies/149888?lang=gb){:target="_blank"}"
+    * _Scanner cérébral sans injection_
+    * Perte de substance cutanée frontale gauche
+    * Fracture en regard (mieux visible dans le plan sagittal)
+    * Bulle de **pneumencéphalie** au contact de la fracture
     * :star: Fracture frontale gauche sans lésion cérébrale :star:
-
-??? question "[Homme de 20 ans, mydriase après récupération d'un arrêt cardiaque](https://radiopaedia.org/cases/75922/studies/87353){:target="_blank"}"
-    * __
-    * :star: Œdème cérébral diffus :star:
