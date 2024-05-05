@@ -1,6 +1,6 @@
 # Pneumopathies interstitielles diffuses
 
-:material-arrow-right: [Fiche **LiSA**](https://livret.uness.fr/lisa/Pneumopathie_interstitielle_diffuse){:target="_blank"}   
+:material-arrow-right: Fiche **LiSA** : [PID](https://livret.uness.fr/lisa/2024/Pneumopathie_interstitielle_diffuse){:target="_blank"} et [syndrome alvéolaire](https://livret.uness.fr/lisa/2024/Conna%C3%AEtre_les_modalit%C3%A9s_du_diagnostic_d%E2%80%99un_syndrome_alv%C3%A9olaire_OIC-207-05-B){:target="_blank"}   
 :material-arrow-right: [Collège de **Pneumologie**](https://cep.splf.fr/wp-content/uploads/2023/07/ITEM_210_PNEUMOPATHIES_INTERSTITIELLES_DIFFUSES_2023.pdf){:target="_blank"}
 
 

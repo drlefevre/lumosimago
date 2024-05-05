@@ -1,6 +1,6 @@
 # Syndrome occlusif
 
-:material-arrow-right: [Fiche **LiSA**](https://livret.uness.fr/lisa/Syndrome_occlusif_de_l%E2%80%99enfant_et_de_l%E2%80%99adulte){:target="_blank"}  
+:material-arrow-right: [Fiche **LiSA**](https://livret.uness.fr/lisa/2024/Syndrome_occlusif_de_l%E2%80%99enfant_et_de_l%E2%80%99adulte){:target="_blank"}  
 
 
 ## Fonctionnel :snake:

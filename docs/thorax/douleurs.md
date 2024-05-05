@@ -1,6 +1,6 @@
 # Douleurs thoraciques aiguës
 
-:material-arrow-right: [Fiche **LiSA**](https://livret.uness.fr/lisa/Douleur_thoracique_aigu%C3%AB){:target="_blank"}   
+:material-arrow-right: [Fiche **LiSA**](https://livret.uness.fr/lisa/2024/Douleur_thoracique_aigu%C3%AB){:target="_blank"}   
 :material-arrow-right: [Collège de **Pneumologie**](https://cep.splf.fr/wp-content/uploads/2023/07/ITEM_230_DOULEUR_THORACIQUE_AIGUE_2023-1.pdf){:target="_blank"}
 
 

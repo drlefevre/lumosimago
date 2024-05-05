@@ -26,7 +26,7 @@
 ## Tumeurs cérébrales :brain:
 
 !!! lumos ""
-    :fire: **1^ère^ cause de tumeur solide** chez l'enfant
+    :fire: **1<sup>ère</sup> cause de tumeur solide** chez l'enfant
 
 !!! imago "[Médulloblastome](https://radiopaedia.org/cases/98844/studies/120009?lang=gb){:target="_blank"}"
     * _Scanner sans injection reconstruit dans le 3 plans_

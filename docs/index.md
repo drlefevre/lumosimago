@@ -89,7 +89,7 @@ Adaptée à l'étude des tissus mous mais aussi des os et des articulations, ell
 
 :warning: **Claustrophobie**, **corps étranger intraoculaire**, **pacemaker**, neurostimulateur, implant cochléaire, pompe à insuline, et anciennes générations de valves cardiaques mécaniques et de clips chirurgicaux :x:
 
-!!! imago "[Lipome en forme de cœur dans le muscle deltoïde](https://radiopaedia.org/cases/96636/studies/116467){:target="_blank"}"
+!!! imago "[Lipome dans le muscle deltoïde](https://radiopaedia.org/cases/96636/studies/116467){:target="_blank"}"
     !!! lumos ""
         :fire: Graisse physiologiquement hyperintense en T1 et en T2, sinon « fat sat »
 

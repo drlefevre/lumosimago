@@ -1,7 +1,7 @@
 site_name: LumosImago
 
 nav:
-  - index.md
+  - Acceuil: index.md
   - Anatomie: anat.md
   - Thorax: 
     - Détresse respiratoire: thorax/détresse.md
@@ -31,7 +31,6 @@ nav:
     - Fractures et boiterie: pédia/fractures.md
     - Maladies génétiques: pédia/génétique.md
     - Cancers: pédia/cancers.md
-  - Quiz: quiz/funnymonday.md
 
 theme:
   name: material
