@@ -7,18 +7,24 @@
 
 !!! imago "[Cholécystite](https://radiopaedia.org/cases/42795/studies/45969){:target="_blank"}"
     * _Echographie de la vésicule biliaire_
-    * Parois vésiculaires épaissies (6 mm) et feuilletées
-    * Calcul de 14 mm enclavé dans le collet (cône d'ombre postérieur)
+    * <span style="color:#945200">Parois vésiculaires</span> épaissies (6 mm) et feuilletées
+    * <span style="color:#FFCD32">Calcul</span> de 14 mm enclavé dans le collet (cône d'ombre postérieur)
+    <figure markdown="span">
+        ![](assets/42795.jpg){width="500"}
+    </figure>
     !!! lumos ""
         :fire: Le signe principal est la **douleur au passage de la sonde** échographique
 
 !!! imago "[Angiocholite](https://radiopaedia.org/cases/31089/studies/31792){:target="_blank"}"
     * _Cholangio-IRM et séquences T2 coronale, axiale et oblique_
-    * Dilatation du cholédoque et des voies biliaires intra-hépatiques
-    * Innombrables calculs millimétriques dans la vésicule biliaire
-    * Empierrement cholédocien : calculs enclavés dans sa partie distale
+    * Dilatation du <span style="color:#009193">cholédoque</span> et des <span style="color:#9ACD32">voies biliaires intra-hépatiques</span>
+    * Innombrables calculs millimétriques dans la <span style="color:#945200">vésicule biliaire</span>
+    * <span style="color:#FFCD32">Empierrement</span> cholédocien : calculs enclavés dans sa partie distale  
+    <figure markdown="span">
+        ![](assets/31089.jpg){width="500"}
+    </figure>
     !!! lumos ""
-        :fire: Triade **douleur - fièvre - ictère**, apparaissant successivement sur 48h
+        :fire: Triade **douleur - fièvre - ictère** apparaissant successivement sur 48h
 
 
 ## Douleurs épigastriques :custom-stomach: :custom-pancreas:
