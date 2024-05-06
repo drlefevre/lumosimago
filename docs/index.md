@@ -17,7 +17,7 @@
 <p style="text-align: center"><i>Alexandre Lefèvre, interne de radiologie à Lille</br></i><a href="mailto:lumosimago@gmail.com">lumosimago@gmail.com</a></br></p>
 
 <figure markdown="span">
-  [![Martingale](assets/V3.jpg){width="600"}](https://www.unitheque.com/imagerie-medicale-martingale-edn/la-martingale/ellipses/Livre/689796){:target="_blank"}
+  [![Martingale](assets/V3.jpg){width="350"}](https://www.unitheque.com/imagerie-medicale-martingale-edn/la-martingale/ellipses/Livre/689796){:target="_blank"}
 </figure>
 
 
