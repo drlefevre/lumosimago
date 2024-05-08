@@ -8,10 +8,11 @@
   font-weight: 600;
 }
 
-/* Hide website title in navigation */
+/* Hide website title in navigation 
 .md-nav__title {
   display: none;
 }
+*/
 
 /* Navigation sections color
 .md-nav__item--section>.md-nav__link[for] {
