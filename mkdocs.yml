@@ -2,8 +2,9 @@ site_name: LumosImago
 
 nav:
   - Acceuil: index.md
+  - Rappels: bases.md
   - Anatomie: anat.md
-  - Thorax: 
+  - 'Thorax' : 
     - Détresse respiratoire: thorax/détresse.md
     - Douleurs aiguës: thorax/douleurs.md
     - Infections: thorax/infections.md
@@ -38,8 +39,8 @@ theme:
   palette:
     primary: indigo
     accent: indigo
-  favicon: assets/logo maj.svg
-  logo: assets/logo maj.svg
+  favicon: assets/lumosimago.png
+  logo: assets/lumosimago.png
   custom_dir: overrides/
 
 markdown_extensions:
@@ -57,7 +58,7 @@ markdown_extensions:
           - overrides/.icons/
 
 copyright: |
-  &copy; 2024 Alexandre Lefèvre - lumosimago@gmail.com
+  &copy; 2024 Alexandre Lefèvre
 
 extra:
   generator: false

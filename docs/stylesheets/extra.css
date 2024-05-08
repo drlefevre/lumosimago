@@ -8,6 +8,17 @@
   font-weight: 600;
 }
 
+/* Hide website title in navigation */
+.md-nav__title {
+  display: none;
+}
+
+/* Navigation sections color
+.md-nav__item--section>.md-nav__link[for] {
+  color: rgba(0, 0, 0, 0.8);
+}
+*/
+
 /* Admonition police size and title weight */
 .md-typeset .admonition,
 .md-typeset .admonition-title,
