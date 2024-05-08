@@ -13,7 +13,7 @@ Le contenu est <strong>gratuit</strong> et s'articule autour de dossiers <a href
     !!! lumos ""
         :fire: Notion essentielle : calcification physiologique de l'épiphyse dès 10 ans
     
-??? question "[Quiz : cliquer ici, interpréter l'imagerie, puis afficher la réponse →](https://radiopaedia.org/cases/23526/studies/23629?lang=gb){:target="_blank"}"
+??? question "[Format quiz : cliquer ici, interpréter l'imagerie, puis afficher la réponse →](https://radiopaedia.org/cases/23526/studies/23629?lang=gb){:target="_blank"}"
     « Tout le monde se trompe, le génie comme le demeuré, et ce n'est pas l'erreur qui est dangereuse mais le fanatisme de celui qui croit qu'il ne se trompe pas. » _Éric-Emmanuel Schmitt_
 
 <p style="text-align: center"><i>Alexandre Lefèvre, interne de radiologie à Lille</br></i><a href="mailto:lumosimago@gmail.com">lumosimago@gmail.com</a></br></p>
