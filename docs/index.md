@@ -4,9 +4,9 @@
 Le contenu est <strong>gratuit</strong> et s'articule autour de dossiers <a href="https://radiopaedia.org/?lang=gb">Radiopaedia</a></p>
 
 !!! imago "[Exemple (scanner cérébral normal) : cliquer ici](https://radiopaedia.org/cases/35508/studies/36999?lang=gb){:target="_blank"}"
-    * Radiopaedia permet de scroller les acquisitions présentées
+    * Radiopaedia permet de scroller les acquisitions
     * Ici je liste les éléments sémiologiques importants
-    * \+ image-clé légendée : <span style="color:#009193">calcification</span> de l'épiphyse
+    * Avec une image-clé légendée : <span style="color:#009193">calcification</span> de l'épiphyse
     <figure markdown="span">
         ![](assets/35508.jpg){width="600"}
     </figure>
