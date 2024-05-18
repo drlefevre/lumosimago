@@ -64,24 +64,48 @@
         :fire: CHC = wash-in / **wash-out** (parce que vascularisation artérielle exclusive)
 
 !!! imago "[Cholangiocarcinome](https://radiopaedia.org/cases/161846/studies/132257){:target="_blank"}"
-    * __
+    * _Scanner abdominal sans puis après injection aux temps artérieux, veineux et tardif_
+    * Dilatation des voies biliaires intrahépatiques gauches
+    * Plage hépatique hypodense mal limitée infiltrante périhilaire
 
 
 ## Pancréas :custom-pancreas:
 
 !!! imago "[Adénocarcinome pancréatique](https://radiopaedia.org/cases/163872/studies/133384){:target="_blank"}"
-    * __
+    * _Scanner abdomino-pelvien après injection au temps veineux_
+    * Masse céphalopancréatique mal limitée
+    * Dilatation du canal pancréatique principal et des voies biliaires
+    * Défauts de rehaussement nodulaires hépatiques suspects de métastases
+    !!! lumos ""
+        :fire: Seulement 5% de survie à 5 ans
 
-!!! imago "[Insulinome](https://radiopaedia.org/cases/85297/studies/100876){:target="_blank"}"
-    * __
+!!! imago "[Tumeur neuro-endocrine](https://radiopaedia.org/cases/85297/studies/100876){:target="_blank"}"
+    * _Scanner abdomino-pelvien sans puis après injection aux temps artériel, veineux et tardif_
+    * Lésion pancréatique hypervascularisée centimétrique à la jonction corps-queue
+    !!! lumos ""
+        :fire: L'**insulinome** est la plus fréquente des TNE sécrétantes du pancréas
+    
+!!! imago "[Tumeur intracanalaire papillaire et mucineuse du pancréas (TIPMP)](https://radiopaedia.org/cases/23905/studies/24096){:target="_blank"}"
+    * _IRM abdominale en séquences T1, T2, T2 fat sat et diffusion_
+    * Lésion multikystique dans la queue du pancréas
+    * Continuité avec le canal pancréatique principal
+    !!! lumos ""
+        :fire: TIPMP du canal principal = risque de **dégénérescence** élevé
 
 
 ## Quiz
 
 ??? question "[Homme de 40 ans d'origine maghrébine, vomissements](https://radiopaedia.org/cases/98621/studies/119414){:target="_blank"}"
-    * __
+    * _Scanner abdomino-pelvien après injection au temps veineux_
+    * Formation hépatique gauche kystique multiloculée
+    * Effet de masse marqué sur l'estomac en arrière
     * :star: Kyste hydatique :star:
+    !!! lumos ""
+        :fire: Le **foie** est la 1<sup>ère</sup> localisation de kyste hydatique
 
 ??? question "[Femme de 65 ans, dysphagie](https://radiopaedia.org/cases/71700/studies/82081){:target="_blank"}"
-    * __
+    * _Scanner thoracique après injection au temps artériel_
+    * Dilatation de l'œsophage avec stagnation de liquide en son sein
+    * Epaississement pariétal asymétrique de la jonction œso-gastrique
+    * Pas d'adénomégalie médiastinale ni de lésion pulmonaire 
     * :star: Adénocarcinome de l'œsophage :star:

@@ -8,7 +8,7 @@
 ## Topographie :brain:
 
 ### Intra/extra-axiale
-1^ère^ question à se poser face à une tumeur intracrânienne : s'agit-il d'une lésion de l'encéphale ou des annexes (méninges et nerfs crâniens) ?
+1<sup>ère</sup> question à se poser face à une tumeur intracrânienne : s'agit-il d'une lésion de l'encéphale ou des annexes (méninges et nerfs crâniens) ?
 
 !!! imago "[Tumeur intra-axiale (gliome de bas grade)](https://radiopaedia.org/cases/48852/studies/53888?lang=gb){:target="_blank"}"
     * _Scanner sans puis après injection reconstruit dans les 3 plans_
@@ -25,7 +25,7 @@
         :fire: La grande majorité des tumeurs extra-axiales sont des **méningiomes**
 
 ### Supra/infra-tentorielle
-Autre question pour orienter le diagnostic : la lésion est-elle au-dessus ou en-dessous de la tente du cervelet ?
+Autre question pour orienter les hypothèses diagnostiques : la lésion est-elle au-dessus ou en-dessous de la tente du cervelet ?
 
 !!! imago "[Tumeur supra-tentorielle (lymphome)](https://radiopaedia.org/cases/152791/studies/126586?lang=gb){:target="_blank"}"
     * _*_IRM en séquences FLAIR, T2, SWI, T1, diffusion, T1 après inj. et perfusion_*_
@@ -57,7 +57,7 @@ Autre question pour orienter le diagnostic : la lésion est-elle au-dessus ou en
 ### Autres tumeurs primitives
 
 !!! imago "[Adénome hypophysaire](https://radiopaedia.org/cases/85657/studies/101436?lang=us){:target="_blank"}"
-    * *IRM centrée sur la selle turcique en séquences T1 sans et après inj., FLAIR et T2*
+    * *IRM centrée sur la selle turcique en séquences T1 sans et après injection, FLAIR et T2*
     * Elargissement de la selle turcique par une masse hypohysaire
     * Compression du **chiasma** optique et infiltration du **sinus caverneux** droit
     * Hypohyse saine refoulée vers la gauche 

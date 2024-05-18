@@ -1,7 +1,7 @@
 site_name: LumosImago
 
 nav:
-  - Acceuil: index.md
+  - Accueil: index.md
   - Rappels: bases.md
   - Anatomie: anat.md
   - 'Thorax' : 
@@ -32,6 +32,7 @@ nav:
     - Fractures et boiterie: pédia/fractures.md
     - Maladies génétiques: pédia/génétique.md
     - Cancers: pédia/cancers.md
+  - Quiz: quiz/funnymonday.md
 
 theme:
   name: material
