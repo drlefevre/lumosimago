@@ -7,8 +7,8 @@
 
 !!! imago "[Cholécystite](https://radiopaedia.org/cases/42795/studies/45969){:target="_blank"}"
     * _Echographie de la vésicule biliaire_
-    * <span style="color:#FF7E79">Parois vésiculaires</span> épaissies (6 mm) et feuilletées
-    * <span style="color:#FFCD32">Calcul</span> de 14 mm enclavé dans le collet (cône d'ombre postérieur)
+    * <span style="color:#FF7E79">Parois vésiculaires</span> épaissies et feuilletées
+    * <span style="color:#FFCD32">Calcul</span> de 14 mm enclavé dans le collet (<span style="color:#009193">cône d'ombre</span> postérieur)
     <figure markdown="span">
         ![](assets/42795.jpg){width="600"}
     </figure>
