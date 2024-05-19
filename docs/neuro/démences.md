@@ -7,48 +7,46 @@
 
 ## Confusion aigu :older_adult_tone1:
 
-!!! imago "[Fécalome](){:target="_blank"}"
+!!! imago "[Fécalome](https://radiopaedia.org/cases/53898/studies/60003){:target="_blank"}"
+    * _Scanner abdomino-pelvien sans injection_
+    * Ballonisation du rectum par l'impaction de matières fécales 
+    !!! lumos ""
+        :fire: Confusion chez le vieux = penser au fécalome et au globe vésical
+
+!!! imago "[Foyers de néphrite](https://radiopaedia.org/cases/acute-pyelonephritis-17){:target="_blank"}"
     * __
 
-!!! imago "[Globe urinaire](){:target="_blank"}"
+!!! imago "[Pneumonie franche lobaire aiguë](https://radiopaedia.org/cases/181713/studies/145072){:target="_blank"}"
     * __
 
-!!! imago "[Foyers de néphrite](){:target="_blank"}"
-    * __
-
-!!! imago "[PFLA](){:target="_blank"}"
+!!! imago "[Encéphalopathie de Gayet-Wernicke](https://radiopaedia.org/cases/30352/studies/30997){:target="_blank"}"
     * __
 
 
 ## Démences :exploding_head:
 
-!!! imago "[Maladie d'Alzheimer](){:target="_blank"}"
+!!! imago "[Maladie d'Alzheimer](https://radiopaedia.org/cases/22196/studies/22226){:target="_blank"}"
     * __
 
-!!! imago "[Démence vasculaire](){:target="_blank"}"
+!!! imago "[Démence vasculaire](https://radiopaedia.org/cases/25641/studies/25829){:target="_blank"}"
     * __
 
-!!! imago "[Hématome sous-dural chronique](){:target="_blank"}"
+!!! imago "[Hématome sous-dural chronique](https://radiopaedia.org/cases/77679/studies/89893){:target="_blank"}"
     * __
 
-
-## Complications de l'alcoolisme :champagne:
-
-!!! imago "[Encéphalopathie de Gayet-Wernicke](){:target="_blank"}"
+!!! imago "[Maladie de Marchiafava-Bignami](https://radiopaedia.org/cases/73702/studies/84496){:target="_blank"}"
     * __
 
-!!! imago "[Syndrome de Korsakoff](){:target="_blank"}"
-    * __
 
 
 ## Quiz
 
-??? question "[Hydrocéphalie à pression normale](){:target="_blank"}"
+??? question "[Homme de 75 ans, désorientation temporo-spatiale](https://radiopaedia.org/cases/54711/studies/60945){:target="_blank"}"
     * __
     * 
-    * :star:  :star:
+    * :star: Hydrocéphalie à pression normale :star:
 
-??? question "[Encéphalite paranéoplasique](){:target="_blank"}"
+??? question "[Femme de 65 ans, confusion, ATCD cancer bronchique à petites cellules](https://radiopaedia.org/cases/96809/studies/116694){:target="_blank"}"
     * __
     * 
-    * :star:  :star:
+    * :star: Encéphalite paranéoplasique :star:
