@@ -7,10 +7,12 @@
 
 !!! imago "[Iléus paralytique](https://radiopaedia.org/cases/33988/studies/35206){:target="_blank"}"
     * _Scanner abdomino-pelvien au temps veineux et reconstruction volumique_
-    * **Dilatation diffuse** des anses intestinales 
-    * Pas de jonction plat-dilaté
+    * <span style="color:#FF7E79">Dilatation diffuse</span> des anses intestinales (pas de jonction plat-dilaté)
+    <figure markdown="span">
+        ![](assets/33988.jpg){width="600"}
+    </figure>
     !!! lumos ""
-        :fire: Causes nombreuses : opioïdes, hypokaliémie, péritonite, laparotomie, ...
+        :fire: Causes nombreuses : opioïdes, hypokaliémie, péritonite, post-laparotomie, ...
 
 
 ## Mécanique :balloon:
@@ -20,25 +22,33 @@
 
 !!! imago "[Occlusion haute sur bride](https://radiopaedia.org/cases/48397/studies/53305){:target="_blank"}"
     * _Scanner abdomino-pelvien injecté au temps veineux_
-    * Dilatation marquée d'anses grêles contrastant avec un côlon plat
-    * [Syndrome jonctionnel dans le pelvis](https://radiopaedia.org/cases/48397/studies/53391?lang=gb){:target="_blank"} avec dernière anse iléale plate en aval
+    * <span style="color:#FF7E79">Dilatation marquée d'anses grêles</span> contrastant avec un <span style="color:#009193">côlon plat</span>
+    * Syndrome jonctionnel dans le pelvis avec <span style="color:#FFCD32">anse grêle plate</span> en aval
     * **Rehaussement satisfaisant des parois** des anses grêles dilatées
+    <figure markdown="span">
+        ![](assets/48397.jpg){width="600"}
+    </figure>
     !!! lumos ""
         :fire: **Bride** = 80% des occlusions gréliques (antécédent chirurgical +++)
 
 !!! imago "[Hernie ombilicale étranglée](https://radiopaedia.org/cases/90649/studies/108059){:target="_blank"}"
     * _Scanner abdomino-pelvien injecté au temps veineux_
-    * Dilatation d'anses grêles en amont d'une hernie ombilicale
-    * En aval les anses grêles sont plates
+    * <span style="color:#FF7E79">Dilatation d'anses grêles</span> en amont d'une <span style="color:#FFCD32">hernie ombilicale</span>
+    * En aval les <span style="color:#009193">anses intestinales sont plates</span>
+    <figure markdown="span">
+        ![](assets/90649.jpg){width="600"}
+    </figure>
 
 !!! lumos ""
     :fire: 80% des occlusions mécaniques sont **gréliques**
 
 !!! imago "[Occlusion basse sur cancer](https://radiopaedia.org/cases/88301/studies/104929){:target="_blank"}"
     * _Scanner abdomino-pelvien injecté au temps veineux_
-    * Dilatation marquée du côlon en amont d'un **épaississement sténosant du côlon** gauche
-    * Dilatation de l'intestin grêle témoignant de l'incompétence de la valvule iléo-cæcale
-    * Masse nécrotique dans le foie droit en faveur d'une lésion secondaire
+    * <span style="color:#FF7E79">Dilatation du côlon</span> en amont d'un <span style="color:#FFCD32">épaississement sténosant</span> du côlon gauche
+    * <span style="color:#808000">Adénopathies</span> dans le mésocôlon et <span style="color:#FF8AD8">métastase hépatique</span> nécrotique
+    <figure markdown="span">
+        ![](assets/88301.jpg){width="600"}
+    </figure>
     !!! lumos ""
         :fire: **Cancer** = 60% des occlusions mécaniques coliques
 
@@ -46,8 +56,11 @@
     * _Scanner après ingestion et administration intrarectale de produit de contraste_
     * Opacification de la lumière des anses grêles et du rectum
     * Pas de passage du produit de contraste dans le côlon
-    * Dilatation très marquée du sigmoïde et cadre colique est modérément dilaté
-    * **Enroulement du sigmoïde et du mésentère** en avant de la bifurcation aorto-iliaque
+    * Dilatation très marquée du <span style="color:#FF7E79">sigmoïde</span> et <span style="color:#009193">cadre colique</span> modérément dilaté
+    * <span style="color:#FFCD32">Enroulement</span> du sigmoïde et du mésentère
+    <figure markdown="span">
+        ![](assets/181461.jpg){width="600"}
+    </figure>
     !!! lumos ""
         :fire: Aspect en **grain de café sur l'ASP** (ou ici le topogramme)
 
