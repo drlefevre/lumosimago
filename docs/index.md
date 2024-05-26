@@ -11,7 +11,7 @@ Le contenu est <strong>gratuit</strong> et s'articule autour de dossiers <a href
         ![](assets/35508.jpg){width="600"}
     </figure>
     !!! lumos ""
-        :fire: Notion essentielle : calcification physiologique de l'épiphyse dès 10 ans
+        :fire: Information clé : calcification physiologique de l'épiphyse dès 10 ans
     
 ??? question "[Format quiz : cliquer ici, interpréter l'imagerie, puis afficher la réponse →](https://radiopaedia.org/cases/23526/studies/23629?lang=gb){:target="_blank"}"
     « Tout le monde se trompe, le génie comme le demeuré, et ce n'est pas l'erreur qui est dangereuse mais le fanatisme de celui qui croit qu'il ne se trompe pas. » _Éric-Emmanuel Schmitt_
