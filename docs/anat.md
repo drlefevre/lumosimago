@@ -10,11 +10,11 @@
 
 !!! imago "[Territoires artériels cérébraux](https://radiopaedia.org/cases/10814/studies/11258?lang=gb){:target="_blank"}"
     !!! lumos ""
-        :fire: [Vaisseaux du cou, sinus veineux et polygone de Willis](https://radiopaedia.org/cases/42608/studies/45749){:target="_blank"}
+        :fire: [Polygone de Willis](https://www.radioanatomie.com/21_polygone/anatomie_polygone_de_willis.php?vue=1#){:target="_blank"}
 
-!!! imago "[Scanner cervical](https://radiopaedia.org/cases/74853/studies/85868){:target="_blank"}"
+!!! imago "[Scanner cervical](https://radiopaedia.org/cases/74853/studies/85868){:target="_blank"}, [scanner des sinus de la face](https://radiopaedia.org/cases/56635/studies/63395){:target="_blank"} et [radiographies du rachis cervical](https://radiopaedia.org/cases/32505/studies/96697){:target="_blank"}"
 
-!!! imago "[Scanner du rocher](https://radiopaedia.org/cases/37030/studies/38707){:target="_blank"}"
+!!! imago "[Scanner du rocher](https://radiopaedia.org/cases/37030/studies/38707){:target="_blank"} ([marteau](https://radiopaedia.org/cases/44492/studies/48165){:target="_blank"}, [enclume](https://radiopaedia.org/cases/44490/studies/48163){:target="_blank"} et [étrier](https://radiopaedia.org/cases/44491/studies/48164){:target="_blank"})"
 
 
 ## Thorax :lungs:
@@ -41,6 +41,8 @@
         :fire: Surrénales, reins, pancréas, duodénum + colons ascendant et descendant
 
 !!! imago "[Uretères](https://radiopaedia.org/cases/56625/studies/63384?source_of=https%3A%2F%2Fradiopaedia.org%2Farticles%2Fureter){:target="_blank"}"
+
+!!! imago "[Radiographies du rachis lombaire](https://radiopaedia.org/cases/183356/studies/146172){:target="_blank"}"
 
 
 ## Quiz
