@@ -1,7 +1,7 @@
 # :octicons-home-16:
 
 <p style="text-align: center">Site de <strong>radiologie</strong> destiné aux étudiants en médecine</br>L'objectif est de réviser l'<strong>EDN</strong> à partir de dossiers d'imagerie</br>
-Le contenu est <strong>gratuit</strong> et s'articule autour de dossiers <a href="https://radiopaedia.org/?lang=gb">Radiopaedia</a></p>
+Le contenu est <strong>gratuit</strong> et s'articule autour de dossiers <a href="https://radiopaedia.org/?lang=gb"target="_blank">Radiopaedia</a></p>
 
 !!! imago "[Exemple (scanner cérébral normal) : cliquer ici](https://radiopaedia.org/cases/35508/studies/36999?lang=gb){:target="_blank"}"
     * Radiopaedia permet de scroller les acquisitions
